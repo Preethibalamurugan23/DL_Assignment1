@@ -1,0 +1,16 @@
+{"time":"2025-03-10T10:22:36.9766468+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250310_102236-0nst7ku6\\logs\\debug-core.log"}
+{"time":"2025-03-10T10:22:37.1092172+05:30","level":"INFO","msg":"created new stream","id":"0nst7ku6"}
+{"time":"2025-03-10T10:22:37.1094072+05:30","level":"INFO","msg":"stream: started","id":"0nst7ku6"}
+{"time":"2025-03-10T10:22:37.1094965+05:30","level":"INFO","msg":"sender: started","stream_id":"0nst7ku6"}
+{"time":"2025-03-10T10:22:37.1094965+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0nst7ku6"}
+{"time":"2025-03-10T10:22:37.1094072+05:30","level":"INFO","msg":"handler: started","stream_id":"0nst7ku6"}
+{"time":"2025-03-10T10:22:37.6546508+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T10:22:38.8678913+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T10:22:38.869572+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T10:22:39.8730216+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4297862,"progress":"23.3KB/23.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4297862,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.1536982,"progress":"943B/943B"}],"total_operations":3}}
+{"time":"2025-03-10T10:22:40.1505843+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T10:22:41.5387968+05:30","level":"INFO","msg":"stream: closing","id":"0nst7ku6"}
+{"time":"2025-03-10T10:22:41.5387968+05:30","level":"INFO","msg":"handler: closed","stream_id":"0nst7ku6"}
+{"time":"2025-03-10T10:22:41.5387968+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"0nst7ku6"}
+{"time":"2025-03-10T10:22:41.5387968+05:30","level":"INFO","msg":"sender: closed","stream_id":"0nst7ku6"}
+{"time":"2025-03-10T10:22:41.5398734+05:30","level":"INFO","msg":"stream: closed","id":"0nst7ku6"}

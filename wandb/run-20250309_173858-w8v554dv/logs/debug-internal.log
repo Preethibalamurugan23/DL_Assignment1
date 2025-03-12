@@ -1,0 +1,16 @@
+{"time":"2025-03-09T17:38:58.5076358+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250309_173858-w8v554dv\\logs\\debug-core.log"}
+{"time":"2025-03-09T17:38:58.6568436+05:30","level":"INFO","msg":"created new stream","id":"w8v554dv"}
+{"time":"2025-03-09T17:38:58.6571837+05:30","level":"INFO","msg":"stream: started","id":"w8v554dv"}
+{"time":"2025-03-09T17:38:58.6576958+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"w8v554dv"}
+{"time":"2025-03-09T17:38:58.6576958+05:30","level":"INFO","msg":"sender: started","stream_id":"w8v554dv"}
+{"time":"2025-03-09T17:38:58.6579149+05:30","level":"INFO","msg":"handler: started","stream_id":"w8v554dv"}
+{"time":"2025-03-09T17:39:00.3954206+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T17:39:17.8485198+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T17:39:17.8496082+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T17:39:18.8677781+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.6718626,"progress":"229B/229B"},{"desc":"uploading config.yaml","runtime_seconds":0.34926,"progress":"946B/946B"}],"total_operations":2}}
+{"time":"2025-03-09T17:39:19.6369027+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T17:39:21.0369997+05:30","level":"INFO","msg":"stream: closing","id":"w8v554dv"}
+{"time":"2025-03-09T17:39:21.0369997+05:30","level":"INFO","msg":"handler: closed","stream_id":"w8v554dv"}
+{"time":"2025-03-09T17:39:21.0369997+05:30","level":"INFO","msg":"sender: closed","stream_id":"w8v554dv"}
+{"time":"2025-03-09T17:39:21.0369997+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"w8v554dv"}
+{"time":"2025-03-09T17:39:21.0381536+05:30","level":"INFO","msg":"stream: closed","id":"w8v554dv"}

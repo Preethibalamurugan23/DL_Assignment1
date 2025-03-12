@@ -1,0 +1,26 @@
+{"time":"2025-03-09T23:03:34.5587622+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250309_230334-vrbay6qr\\logs\\debug-core.log"}
+{"time":"2025-03-09T23:03:35.5252256+05:30","level":"INFO","msg":"created new stream","id":"vrbay6qr"}
+{"time":"2025-03-09T23:03:35.5257337+05:30","level":"INFO","msg":"handler: started","stream_id":"vrbay6qr"}
+{"time":"2025-03-09T23:03:35.5257337+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vrbay6qr"}
+{"time":"2025-03-09T23:03:35.5257337+05:30","level":"INFO","msg":"sender: started","stream_id":"vrbay6qr"}
+{"time":"2025-03-09T23:03:35.5257337+05:30","level":"INFO","msg":"stream: started","id":"vrbay6qr"}
+{"time":"2025-03-09T23:03:36.104923+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T23:03:37.0949924+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T23:10:08.1271136+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T23:10:11.2165673+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T23:10:43.8427279+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T23:10:45.9978222+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T23:13:49.5739309+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T23:14:07.5923152+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T23:20:21.5631575+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T23:20:21.5784029+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T23:20:25.8268982+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T23:21:09.2786415+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T23:21:09.2809823+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T23:21:10.2968365+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-vrbay6qr-confusion_matrix_rmsprop_table","runtime_seconds":2.0847991},{"desc":"uploading artifact run-vrbay6qr-confusion_matrix_nadam_table","runtime_seconds":1.0399392},{"desc":"uploading config.yaml","runtime_seconds":0.3813177,"progress":"3.6KB/3.6KB"}],"total_operations":3}}
+{"time":"2025-03-09T23:21:12.6857157+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T23:21:14.0383436+05:30","level":"INFO","msg":"stream: closing","id":"vrbay6qr"}
+{"time":"2025-03-09T23:21:14.0383436+05:30","level":"INFO","msg":"handler: closed","stream_id":"vrbay6qr"}
+{"time":"2025-03-09T23:21:14.0383436+05:30","level":"INFO","msg":"sender: closed","stream_id":"vrbay6qr"}
+{"time":"2025-03-09T23:21:14.0383436+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vrbay6qr"}
+{"time":"2025-03-09T23:21:14.0383436+05:30","level":"INFO","msg":"stream: closed","id":"vrbay6qr"}

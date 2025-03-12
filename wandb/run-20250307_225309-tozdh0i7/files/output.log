@@ -1,0 +1,7 @@
+Starting sweep: hl_5_bs_32_ac_relu
+Epoch 0, Val Loss: 2.3026
+Epoch 1, Val Loss: 2.3026
+Epoch 2, Val Loss: 2.3026
+Epoch 3, Val Loss: 2.3026
+Epoch 4, Val Loss: 2.3026
+Completed sweep: hl_5_bs_32_ac_relu

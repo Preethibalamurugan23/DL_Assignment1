@@ -1,0 +1,25 @@
+Layer 0 - Weight norm before: 3.170321167766445, after: 3.170579347811668
+Layer 1 - Weight norm before: 1.2821399052698998, after: 1.2822738118996813
+Layer 2 - Weight norm before: 1.2909275190334564, after: 1.2911778101371958
+Layer 3 - Weight norm before: 0.3513354017976681, after: 0.3514692694367751
+Epoch 1/5 | Train Loss: 2.3026, Train Acc: 0.0786 | Val Loss: 2.3024, Val Acc: 0.2320
+Layer 0 - Weight norm before: 3.170579347811668, after: 3.1712959156973213
+Layer 1 - Weight norm before: 1.2822738118996813, after: 1.2830921400026687
+Layer 2 - Weight norm before: 1.2911778101371958, after: 1.291907101118103
+Layer 3 - Weight norm before: 0.3514692694367751, after: 0.352212431752734
+Epoch 2/5 | Train Loss: 2.3024, Train Acc: 0.2284 | Val Loss: 2.3023, Val Acc: 0.3113
+Layer 0 - Weight norm before: 3.1712959156973213, after: 3.1723188542138034
+Layer 1 - Weight norm before: 1.2830921400026687, after: 1.284284280439715
+Layer 2 - Weight norm before: 1.291907101118103, after: 1.2929148112923183
+Layer 3 - Weight norm before: 0.352212431752734, after: 0.3531556855998885
+Epoch 3/5 | Train Loss: 2.3023, Train Acc: 0.3023 | Val Loss: 2.3022, Val Acc: 0.3152
+Layer 0 - Weight norm before: 3.1723188542138034, after: 3.173608995347563
+Layer 1 - Weight norm before: 1.284284280439715, after: 1.2857599709365335
+Layer 2 - Weight norm before: 1.2929148112923183, after: 1.2941496975254316
+Layer 3 - Weight norm before: 0.3531556855998885, after: 0.3542415285672019
+Epoch 4/5 | Train Loss: 2.3022, Train Acc: 0.3070 | Val Loss: 2.3021, Val Acc: 0.3143
+Layer 0 - Weight norm before: 3.173608995347563, after: 3.1751495180029434
+Layer 1 - Weight norm before: 1.2857599709365335, after: 1.2874882312606044
+Layer 2 - Weight norm before: 1.2941496975254316, after: 1.295580679392207
+Layer 3 - Weight norm before: 0.3542415285672019, after: 0.35544351364000226
+Epoch 5/5 | Train Loss: 2.3021, Train Acc: 0.3042 | Val Loss: 2.3019, Val Acc: 0.3127

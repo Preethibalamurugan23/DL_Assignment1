@@ -1,0 +1,16 @@
+{"time":"2025-03-09T18:09:06.5021577+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250309_180906-7y0n4utb\\logs\\debug-core.log"}
+{"time":"2025-03-09T18:09:06.6234712+05:30","level":"INFO","msg":"created new stream","id":"7y0n4utb"}
+{"time":"2025-03-09T18:09:06.6234712+05:30","level":"INFO","msg":"stream: started","id":"7y0n4utb"}
+{"time":"2025-03-09T18:09:06.6234712+05:30","level":"INFO","msg":"handler: started","stream_id":"7y0n4utb"}
+{"time":"2025-03-09T18:09:06.6234712+05:30","level":"INFO","msg":"sender: started","stream_id":"7y0n4utb"}
+{"time":"2025-03-09T18:09:06.624482+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7y0n4utb"}
+{"time":"2025-03-09T18:09:07.0107957+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T18:09:25.1668309+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T18:09:25.1681456+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T18:09:26.171498+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T18:09:26.1822065+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 8-9, summary, console lines 8-9","runtime_seconds":0.0107085}],"total_operations":1}}
+{"time":"2025-03-09T18:09:27.5295131+05:30","level":"INFO","msg":"stream: closing","id":"7y0n4utb"}
+{"time":"2025-03-09T18:09:27.5295131+05:30","level":"INFO","msg":"handler: closed","stream_id":"7y0n4utb"}
+{"time":"2025-03-09T18:09:27.5295131+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7y0n4utb"}
+{"time":"2025-03-09T18:09:27.5295131+05:30","level":"INFO","msg":"sender: closed","stream_id":"7y0n4utb"}
+{"time":"2025-03-09T18:09:27.529941+05:30","level":"INFO","msg":"stream: closed","id":"7y0n4utb"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T11:02:47.7748901+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250310_110247-sctv7541\\logs\\debug-core.log"}
+{"time":"2025-03-10T11:02:47.8967334+05:30","level":"INFO","msg":"created new stream","id":"sctv7541"}
+{"time":"2025-03-10T11:02:47.8967334+05:30","level":"INFO","msg":"stream: started","id":"sctv7541"}
+{"time":"2025-03-10T11:02:47.8991018+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sctv7541"}
+{"time":"2025-03-10T11:02:47.8991018+05:30","level":"INFO","msg":"handler: started","stream_id":"sctv7541"}
+{"time":"2025-03-10T11:02:47.8991018+05:30","level":"INFO","msg":"sender: started","stream_id":"sctv7541"}
+{"time":"2025-03-10T11:02:48.3170481+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T11:02:49.3109797+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T11:02:49.3121104+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T11:02:50.3238236+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4850966,"progress":"577B/577B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4850966,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.2173173,"progress":"949B/949B"}],"total_operations":3}}
+{"time":"2025-03-10T11:02:51.1529178+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T11:02:52.4820175+05:30","level":"INFO","msg":"stream: closing","id":"sctv7541"}
+{"time":"2025-03-10T11:02:52.4820175+05:30","level":"INFO","msg":"handler: closed","stream_id":"sctv7541"}
+{"time":"2025-03-10T11:02:52.4820175+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sctv7541"}
+{"time":"2025-03-10T11:02:52.4820175+05:30","level":"INFO","msg":"sender: closed","stream_id":"sctv7541"}
+{"time":"2025-03-10T11:02:52.4830916+05:30","level":"INFO","msg":"stream: closed","id":"sctv7541"}

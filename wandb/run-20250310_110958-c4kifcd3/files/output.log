@@ -1,0 +1,29 @@
+Layer 0 - Weight norm before: 5.656423296678808, after: 5.656169278255708
+Layer 1 - Weight norm before: 5.6945593594876565, after: 5.6942731213710385
+Layer 2 - Weight norm before: 5.885989270646252, after: 5.885828900472417
+Layer 3 - Weight norm before: 3.074767747933586, after: 3.0746628092261536
+Epoch 1/5 | Train Loss: 2.3376, Train Acc: 0.0810 | Val Loss: 2.3157, Val Acc: 0.0872
+Layer 0 - Weight norm before: 5.656169278255708, after: 5.655994483313085
+Layer 1 - Weight norm before: 5.6942731213710385, after: 5.693994116180712
+Layer 2 - Weight norm before: 5.885828900472417, after: 5.885734466526508
+Layer 3 - Weight norm before: 3.0746628092261536, after: 3.0746046254399184
+Epoch 2/5 | Train Loss: 2.3162, Train Acc: 0.0872 | Val Loss: 2.2961, Val Acc: 0.0928
+Layer 0 - Weight norm before: 5.655994483313085, after: 5.655890884219806
+Layer 1 - Weight norm before: 5.693994116180712, after: 5.693748939156121
+Layer 2 - Weight norm before: 5.885734466526508, after: 5.885673725327569
+Layer 3 - Weight norm before: 3.0746046254399184, after: 3.0745267981630655
+Epoch 3/5 | Train Loss: 2.2968, Train Acc: 0.0958 | Val Loss: 2.2772, Val Acc: 0.1040
+Layer 0 - Weight norm before: 5.655890884219806, after: 5.655829313878568
+Layer 1 - Weight norm before: 5.693748939156121, after: 5.693553773048146
+Layer 2 - Weight norm before: 5.885673725327569, after: 5.885645385902472
+Layer 2 weights are not changing significantly!
+Layer 3 - Weight norm before: 3.0745267981630655, after: 3.0744755561879065
+Epoch 4/5 | Train Loss: 2.2781, Train Acc: 0.1050 | Val Loss: 2.2586, Val Acc: 0.1158
+Layer 0 - Weight norm before: 5.655829313878568, after: 5.655850541209688
+Layer 0 weights are not changing significantly!
+Layer 1 - Weight norm before: 5.693553773048146, after: 5.693401809769853
+Layer 2 - Weight norm before: 5.885645385902472, after: 5.885660846090446
+Layer 2 weights are not changing significantly!
+Layer 3 - Weight norm before: 3.0744755561879065, after: 3.074497715764723
+Layer 3 weights are not changing significantly!
+Epoch 5/5 | Train Loss: 2.2597, Train Acc: 0.1176 | Val Loss: 2.2403, Val Acc: 0.1295

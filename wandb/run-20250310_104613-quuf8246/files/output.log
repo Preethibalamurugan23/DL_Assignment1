@@ -1,0 +1,55 @@
+Layer 0 - Weight norm before: 3.180109657744753, after: 3.180109658028246
+Layer 0 weights are not changing significantly!
+Layer 1 - Weight norm before: 1.280457615314808, after: 1.2804576160128278
+Layer 1 weights are not changing significantly!
+Layer 2 - Weight norm before: 1.279334437162339, after: 1.2793344378624987
+Layer 2 weights are not changing significantly!
+Layer 3 - Weight norm before: 1.2798559988504785, after: 1.279855999550369
+Layer 3 weights are not changing significantly!
+Layer 4 - Weight norm before: 0.3533126541214355, after: 0.3533126566567438
+Layer 4 weights are not changing significantly!
+Epoch 1/5 | Train Loss: 2.3026, Train Acc: 0.1011 | Val Loss: 2.3026, Val Acc: 0.1007
+Layer 0 - Weight norm before: 3.180109658028246, after: 3.180109658311837
+Layer 0 weights are not changing significantly!
+Layer 1 - Weight norm before: 1.2804576160128278, after: 1.280457616711099
+Layer 1 weights are not changing significantly!
+Layer 2 - Weight norm before: 1.2793344378624987, after: 1.27933443856291
+Layer 2 weights are not changing significantly!
+Layer 3 - Weight norm before: 1.279855999550369, after: 1.2798560002505113
+Layer 3 weights are not changing significantly!
+Layer 4 - Weight norm before: 0.3533126566567438, after: 0.3533126591930165
+Layer 4 weights are not changing significantly!
+Epoch 2/5 | Train Loss: 2.3026, Train Acc: 0.1006 | Val Loss: 2.3026, Val Acc: 0.0998
+Layer 0 - Weight norm before: 3.180109658311837, after: 3.1801096585955246
+Layer 0 weights are not changing significantly!
+Layer 1 - Weight norm before: 1.280457616711099, after: 1.2804576174096214
+Layer 1 weights are not changing significantly!
+Layer 2 - Weight norm before: 1.27933443856291, after: 1.279334439263573
+Layer 2 weights are not changing significantly!
+Layer 3 - Weight norm before: 1.2798560002505113, after: 1.2798560009509052
+Layer 3 weights are not changing significantly!
+Layer 4 - Weight norm before: 0.3533126591930165, after: 0.3533126617302536
+Layer 4 weights are not changing significantly!
+Epoch 3/5 | Train Loss: 2.3026, Train Acc: 0.1007 | Val Loss: 2.3026, Val Acc: 0.1000
+Layer 0 - Weight norm before: 3.1801096585955246, after: 3.1801096588793096
+Layer 0 weights are not changing significantly!
+Layer 1 - Weight norm before: 1.2804576174096214, after: 1.2804576181083953
+Layer 1 weights are not changing significantly!
+Layer 2 - Weight norm before: 1.279334439263573, after: 1.2793344399644875
+Layer 2 weights are not changing significantly!
+Layer 3 - Weight norm before: 1.2798560009509052, after: 1.279856001651551
+Layer 3 weights are not changing significantly!
+Layer 4 - Weight norm before: 0.3533126617302536, after: 0.3533126642684551
+Layer 4 weights are not changing significantly!
+Epoch 4/5 | Train Loss: 2.3026, Train Acc: 0.1003 | Val Loss: 2.3026, Val Acc: 0.0998
+Layer 0 - Weight norm before: 3.1801096588793096, after: 3.1801096591631923
+Layer 0 weights are not changing significantly!
+Layer 1 - Weight norm before: 1.2804576181083953, after: 1.2804576188074206
+Layer 1 weights are not changing significantly!
+Layer 2 - Weight norm before: 1.2793344399644875, after: 1.279334440665654
+Layer 2 weights are not changing significantly!
+Layer 3 - Weight norm before: 1.279856001651551, after: 1.2798560023524483
+Layer 3 weights are not changing significantly!
+Layer 4 - Weight norm before: 0.3533126642684551, after: 0.35331266680762097
+Layer 4 weights are not changing significantly!
+Epoch 5/5 | Train Loss: 2.3026, Train Acc: 0.1003 | Val Loss: 2.3026, Val Acc: 0.0993

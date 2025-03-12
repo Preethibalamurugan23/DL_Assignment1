@@ -1,0 +1,16 @@
+{"time":"2025-03-07T20:24:26.812378+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250307_202423-kku48rfu\\logs\\debug-core.log"}
+{"time":"2025-03-07T20:24:26.9439973+05:30","level":"INFO","msg":"created new stream","id":"kku48rfu"}
+{"time":"2025-03-07T20:24:26.9441252+05:30","level":"INFO","msg":"stream: started","id":"kku48rfu"}
+{"time":"2025-03-07T20:24:26.9441252+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kku48rfu"}
+{"time":"2025-03-07T20:24:26.9441252+05:30","level":"INFO","msg":"sender: started","stream_id":"kku48rfu"}
+{"time":"2025-03-07T20:24:26.9441252+05:30","level":"INFO","msg":"handler: started","stream_id":"kku48rfu"}
+{"time":"2025-03-07T20:24:27.6543972+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T20:31:43.1207711+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T20:31:43.122079+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T20:31:44.1421426+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 48-49, summary, console lines 50-51","runtime_seconds":0.3423415},{"desc":"uploading output.log","runtime_seconds":0.3033696,"progress":"1.1KB/1.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3033696,"progress":"132B/132B"},{"desc":"uploading config.yaml","runtime_seconds":0.0075888,"progress":"667B/667B"}],"total_operations":4}}
+{"time":"2025-03-07T20:31:45.4700206+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T20:31:46.9548669+05:30","level":"INFO","msg":"stream: closing","id":"kku48rfu"}
+{"time":"2025-03-07T20:31:46.9548669+05:30","level":"INFO","msg":"handler: closed","stream_id":"kku48rfu"}
+{"time":"2025-03-07T20:31:46.9553825+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kku48rfu"}
+{"time":"2025-03-07T20:31:46.9553825+05:30","level":"INFO","msg":"sender: closed","stream_id":"kku48rfu"}
+{"time":"2025-03-07T20:31:46.9558412+05:30","level":"INFO","msg":"stream: closed","id":"kku48rfu"}

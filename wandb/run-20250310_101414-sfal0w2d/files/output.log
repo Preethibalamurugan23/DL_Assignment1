@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_21872\1866825781.py", line 7, in sweep_train
+    model.train()
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_21872\259192883.py", line 167, in train
+    grads = self.backward(activations, y_train_onehot)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_21872\259192883.py", line 106, in backward
+    dZ = np.dot(dZ, self.weights[i + 1].T) * self.relu_derivative(activations[i + 1])
+                                             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NeuralNetwork' object has no attribute 'relu_derivative'

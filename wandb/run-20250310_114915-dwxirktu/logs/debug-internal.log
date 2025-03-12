@@ -1,0 +1,16 @@
+{"time":"2025-03-10T11:49:15.2862207+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250310_114915-dwxirktu\\logs\\debug-core.log"}
+{"time":"2025-03-10T11:49:15.4063964+05:30","level":"INFO","msg":"created new stream","id":"dwxirktu"}
+{"time":"2025-03-10T11:49:15.4064782+05:30","level":"INFO","msg":"stream: started","id":"dwxirktu"}
+{"time":"2025-03-10T11:49:15.4064782+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dwxirktu"}
+{"time":"2025-03-10T11:49:15.4064782+05:30","level":"INFO","msg":"handler: started","stream_id":"dwxirktu"}
+{"time":"2025-03-10T11:49:15.4064782+05:30","level":"INFO","msg":"sender: started","stream_id":"dwxirktu"}
+{"time":"2025-03-10T11:49:15.8419746+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T11:49:32.4828814+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T11:49:32.4836209+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T11:49:33.5149759+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":1.0291521}],"total_operations":1}}
+{"time":"2025-03-10T11:49:35.1295571+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T11:49:36.8482256+05:30","level":"INFO","msg":"stream: closing","id":"dwxirktu"}
+{"time":"2025-03-10T11:49:36.8482256+05:30","level":"INFO","msg":"handler: closed","stream_id":"dwxirktu"}
+{"time":"2025-03-10T11:49:36.8482256+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dwxirktu"}
+{"time":"2025-03-10T11:49:36.8482256+05:30","level":"INFO","msg":"sender: closed","stream_id":"dwxirktu"}
+{"time":"2025-03-10T11:49:36.8482256+05:30","level":"INFO","msg":"stream: closed","id":"dwxirktu"}

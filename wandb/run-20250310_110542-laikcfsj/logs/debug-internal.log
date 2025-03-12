@@ -1,0 +1,16 @@
+{"time":"2025-03-10T11:05:42.6993532+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250310_110542-laikcfsj\\logs\\debug-core.log"}
+{"time":"2025-03-10T11:05:42.8200909+05:30","level":"INFO","msg":"created new stream","id":"laikcfsj"}
+{"time":"2025-03-10T11:05:42.8200909+05:30","level":"INFO","msg":"stream: started","id":"laikcfsj"}
+{"time":"2025-03-10T11:05:42.8200909+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"laikcfsj"}
+{"time":"2025-03-10T11:05:42.8200909+05:30","level":"INFO","msg":"sender: started","stream_id":"laikcfsj"}
+{"time":"2025-03-10T11:05:42.8206394+05:30","level":"INFO","msg":"handler: started","stream_id":"laikcfsj"}
+{"time":"2025-03-10T11:05:43.1424909+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T11:05:43.853885+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T11:05:43.8546059+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T11:05:44.86456+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.1864604,"progress":"705B/705B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.1864604,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-03-10T11:05:45.390745+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T11:05:46.7236637+05:30","level":"INFO","msg":"stream: closing","id":"laikcfsj"}
+{"time":"2025-03-10T11:05:46.7236637+05:30","level":"INFO","msg":"handler: closed","stream_id":"laikcfsj"}
+{"time":"2025-03-10T11:05:46.7236637+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"laikcfsj"}
+{"time":"2025-03-10T11:05:46.7236637+05:30","level":"INFO","msg":"sender: closed","stream_id":"laikcfsj"}
+{"time":"2025-03-10T11:05:46.7242556+05:30","level":"INFO","msg":"stream: closed","id":"laikcfsj"}

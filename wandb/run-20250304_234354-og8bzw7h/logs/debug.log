@@ -24,3 +24,45 @@ config: {'_wandb': {}}
 2025-03-04 23:43:55,704 INFO    MainThread:38184 [wandb_init.py:init():1037] run started, returning control to user process
 2025-03-04 23:43:55,705 INFO    MainThread:38184 [jupyter.py:save_ipynb():386] not saving jupyter notebook
 2025-03-04 23:43:55,705 INFO    MainThread:38184 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-04 23:45:32,961 INFO    MainThread:38184 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-04 23:45:32,966 INFO    MainThread:38184 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 23:45:32,966 INFO    MainThread:38184 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-04 23:45:33,285 INFO    MainThread:38184 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-04 23:45:33,290 INFO    MainThread:38184 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 23:45:33,291 INFO    MainThread:38184 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-04 23:45:35,422 INFO    MainThread:38184 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-04 23:45:35,429 INFO    MainThread:38184 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 23:45:35,429 INFO    MainThread:38184 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-04 23:45:36,803 INFO    MainThread:38184 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-04 23:45:36,809 INFO    MainThread:38184 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 23:45:36,810 INFO    MainThread:38184 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-04 23:45:36,925 INFO    MainThread:38184 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-04 23:45:36,930 INFO    MainThread:38184 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 23:45:36,930 INFO    MainThread:38184 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-04 23:46:07,063 INFO    MainThread:38184 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-04 23:46:07,972 INFO    MainThread:38184 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 23:46:07,972 INFO    MainThread:38184 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-04 23:46:19,727 INFO    MainThread:38184 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-04 23:49:03,211 INFO    MainThread:38184 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 23:49:03,212 INFO    MainThread:38184 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-04 23:49:11,583 INFO    MainThread:38184 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-04 23:49:11,586 INFO    MainThread:38184 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 23:49:11,586 INFO    MainThread:38184 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-04 23:49:14,514 INFO    MainThread:38184 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-04 23:49:14,515 INFO    MainThread:38184 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 23:49:14,515 INFO    MainThread:38184 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-04 23:49:22,244 INFO    MainThread:38184 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-04 23:53:18,629 INFO    MainThread:38184 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-04 23:53:18,629 INFO    MainThread:38184 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-05 00:52:53,017 INFO    MainThread:38184 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-05 00:52:53,022 INFO    MainThread:38184 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/og8bzw7h
+2025-03-05 00:52:53,023 INFO    MainThread:38184 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-05 00:52:53,023 INFO    MainThread:38184 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-05 00:52:53,023 INFO    MainThread:38184 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-05 00:52:53,024 INFO    MainThread:38184 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-03-05 00:52:53,025 INFO    MainThread:38184 [wandb_run.py:_restore():2324] restore
+2025-03-05 00:52:53,026 INFO    MainThread:38184 [wandb_run.py:_restore():2330] restore done
+2025-03-05 00:52:57,311 INFO    MsgRouterThr:38184 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-03-05 00:52:57,312 INFO    MainThread:38184 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-03-05 00:52:57,313 INFO    MainThread:38184 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-03-05 00:52:57,313 INFO    MainThread:38184 [wandb_run.py:_footer_sync_info():3919] logging synced files

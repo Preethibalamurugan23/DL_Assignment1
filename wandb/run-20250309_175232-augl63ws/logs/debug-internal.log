@@ -1,0 +1,16 @@
+{"time":"2025-03-09T17:52:32.7922289+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250309_175232-augl63ws\\logs\\debug-core.log"}
+{"time":"2025-03-09T17:52:32.9169717+05:30","level":"INFO","msg":"created new stream","id":"augl63ws"}
+{"time":"2025-03-09T17:52:32.9179799+05:30","level":"INFO","msg":"stream: started","id":"augl63ws"}
+{"time":"2025-03-09T17:52:32.9179799+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"augl63ws"}
+{"time":"2025-03-09T17:52:32.9179799+05:30","level":"INFO","msg":"handler: started","stream_id":"augl63ws"}
+{"time":"2025-03-09T17:52:32.9179799+05:30","level":"INFO","msg":"sender: started","stream_id":"augl63ws"}
+{"time":"2025-03-09T17:52:33.3428686+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T17:52:48.9892065+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T17:52:48.9906029+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T17:52:50.0052284+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-9, summary, console lines 0-9","runtime_seconds":0.4299962},{"desc":"uploading config.yaml","runtime_seconds":0.2930373,"progress":"947B/947B"}],"total_operations":2}}
+{"time":"2025-03-09T17:52:50.129362+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T17:52:52.0063163+05:30","level":"INFO","msg":"stream: closing","id":"augl63ws"}
+{"time":"2025-03-09T17:52:52.0063163+05:30","level":"INFO","msg":"handler: closed","stream_id":"augl63ws"}
+{"time":"2025-03-09T17:52:52.0063163+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"augl63ws"}
+{"time":"2025-03-09T17:52:52.0063163+05:30","level":"INFO","msg":"sender: closed","stream_id":"augl63ws"}
+{"time":"2025-03-09T17:52:52.0076171+05:30","level":"INFO","msg":"stream: closed","id":"augl63ws"}

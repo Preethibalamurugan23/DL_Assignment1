@@ -1,0 +1,16 @@
+{"time":"2025-03-10T10:19:26.5969892+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250310_101926-vpaxzfa4\\logs\\debug-core.log"}
+{"time":"2025-03-10T10:19:26.7198878+05:30","level":"INFO","msg":"created new stream","id":"vpaxzfa4"}
+{"time":"2025-03-10T10:19:26.7198878+05:30","level":"INFO","msg":"stream: started","id":"vpaxzfa4"}
+{"time":"2025-03-10T10:19:26.7198878+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vpaxzfa4"}
+{"time":"2025-03-10T10:19:26.7198878+05:30","level":"INFO","msg":"handler: started","stream_id":"vpaxzfa4"}
+{"time":"2025-03-10T10:19:26.7204339+05:30","level":"INFO","msg":"sender: started","stream_id":"vpaxzfa4"}
+{"time":"2025-03-10T10:19:27.1175213+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T10:19:27.6362951+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T10:19:27.6372482+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T10:19:28.6599292+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.0486039}],"total_operations":1}}
+{"time":"2025-03-10T10:19:29.5833547+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T10:19:30.964394+05:30","level":"INFO","msg":"stream: closing","id":"vpaxzfa4"}
+{"time":"2025-03-10T10:19:30.964394+05:30","level":"INFO","msg":"handler: closed","stream_id":"vpaxzfa4"}
+{"time":"2025-03-10T10:19:30.964394+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vpaxzfa4"}
+{"time":"2025-03-10T10:19:30.964394+05:30","level":"INFO","msg":"sender: closed","stream_id":"vpaxzfa4"}
+{"time":"2025-03-10T10:19:30.9650645+05:30","level":"INFO","msg":"stream: closed","id":"vpaxzfa4"}

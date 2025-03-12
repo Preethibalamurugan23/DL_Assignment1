@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_30768\1866825781.py", line 7, in sweep_train
+    model.train()
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_30768\724093311.py", line 186, in train
+    val_loss = self.compute_loss(y_val_onehot, val_activations[len(self.layers) - 1])
+                                 ^^^^^^^^^^^^
+NameError: name 'y_val_onehot' is not defined. Did you mean: 'y_train_onehot'?

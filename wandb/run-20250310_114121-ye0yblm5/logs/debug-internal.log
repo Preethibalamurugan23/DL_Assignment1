@@ -1,0 +1,16 @@
+{"time":"2025-03-10T11:41:21.7442517+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250310_114121-ye0yblm5\\logs\\debug-core.log"}
+{"time":"2025-03-10T11:41:21.8665415+05:30","level":"INFO","msg":"created new stream","id":"ye0yblm5"}
+{"time":"2025-03-10T11:41:21.8665415+05:30","level":"INFO","msg":"stream: started","id":"ye0yblm5"}
+{"time":"2025-03-10T11:41:21.8668405+05:30","level":"INFO","msg":"handler: started","stream_id":"ye0yblm5"}
+{"time":"2025-03-10T11:41:21.8668405+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ye0yblm5"}
+{"time":"2025-03-10T11:41:21.8668405+05:30","level":"INFO","msg":"sender: started","stream_id":"ye0yblm5"}
+{"time":"2025-03-10T11:41:22.2251905+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T11:41:54.6033711+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T11:41:54.60411+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T11:41:55.6097456+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.3420485,"progress":"939B/939B"}],"total_operations":1}}
+{"time":"2025-03-10T11:41:55.6316703+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T11:41:57.0923085+05:30","level":"INFO","msg":"stream: closing","id":"ye0yblm5"}
+{"time":"2025-03-10T11:41:57.0928386+05:30","level":"INFO","msg":"handler: closed","stream_id":"ye0yblm5"}
+{"time":"2025-03-10T11:41:57.0929017+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ye0yblm5"}
+{"time":"2025-03-10T11:41:57.0929017+05:30","level":"INFO","msg":"sender: closed","stream_id":"ye0yblm5"}
+{"time":"2025-03-10T11:41:57.0934114+05:30","level":"INFO","msg":"stream: closed","id":"ye0yblm5"}

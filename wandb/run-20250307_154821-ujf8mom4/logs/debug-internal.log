@@ -1,0 +1,48 @@
+{"time":"2025-03-07T15:48:21.8203598+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250307_154821-ujf8mom4\\logs\\debug-core.log"}
+{"time":"2025-03-07T15:48:22.4975649+05:30","level":"INFO","msg":"created new stream","id":"ujf8mom4"}
+{"time":"2025-03-07T15:48:22.4992054+05:30","level":"INFO","msg":"sender: started","stream_id":"ujf8mom4"}
+{"time":"2025-03-07T15:48:22.4992054+05:30","level":"INFO","msg":"handler: started","stream_id":"ujf8mom4"}
+{"time":"2025-03-07T15:48:22.4992054+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ujf8mom4"}
+{"time":"2025-03-07T15:48:22.4997369+05:30","level":"INFO","msg":"stream: started","id":"ujf8mom4"}
+{"time":"2025-03-07T15:48:22.9197328+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T15:48:27.615574+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T16:24:49.561159+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T16:26:04.6295257+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T16:26:26.1889105+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T16:29:26.0775875+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T19:17:04.6694018+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/ujf8mom4/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:17:06.868883+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/ujf8mom4/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:17:11.6509302+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:17:11.8547119+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/ujf8mom4/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:17:13.6842797+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:17:18.0907731+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:17:19.8604833+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/ujf8mom4/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:17:27.2137951+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:17:39.3835703+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/ujf8mom4/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:17:44.849751+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:18:16.6169838+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/ujf8mom4/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:18:22.1280401+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:19:16.6286128+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/ujf8mom4/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:19:22.1341935+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:20:01.8729911+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T19:20:16.644282+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/ujf8mom4/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:20:22.1381196+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-07T19:32:49.6800943+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T19:33:23.6274052+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T19:39:57.9738021+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T19:40:29.2117197+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T19:40:30.4816556+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T19:40:38.9890506+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T19:40:46.7558691+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T19:41:07.1886274+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T19:42:45.1344258+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-07T19:42:49.3173779+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-07T19:42:49.3477627+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T19:42:49.3514128+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T19:42:50.4531755+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.0291743}],"total_operations":1}}
+{"time":"2025-03-07T19:42:52.4271741+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T19:42:54.0099106+05:30","level":"INFO","msg":"stream: closing","id":"ujf8mom4"}
+{"time":"2025-03-07T19:42:54.0099106+05:30","level":"INFO","msg":"handler: closed","stream_id":"ujf8mom4"}
+{"time":"2025-03-07T19:42:54.010448+05:30","level":"INFO","msg":"sender: closed","stream_id":"ujf8mom4"}
+{"time":"2025-03-07T19:42:54.0099106+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ujf8mom4"}
+{"time":"2025-03-07T19:42:54.010448+05:30","level":"INFO","msg":"stream: closed","id":"ujf8mom4"}

@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_30768\1866825781.py", line 7, in sweep_train
+    model.train()
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_30768\2192584477.py", line 236, in train
+    grads = self.backward(activations, y_train_onehot)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_30768\2192584477.py", line 160, in backward
+    dZ = np.dot(dZ, self.weights[i + 1].T) * self.activation_derivative(self.z[i + 1])  # Using pre-activation
+                                                                        ^^^^^^
+AttributeError: 'NeuralNetwork' object has no attribute 'z'

@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_30768\1866825781.py", line 7, in sweep_train
+    model.train()
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_30768\3916716678.py", line 236, in train
+    grads = self.backward(activations, y_train_onehot)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_30768\3916716678.py", line 152, in backward
+    if self.loss == "mean_squared_error":
+       ^^^^^^^^^
+AttributeError: 'NeuralNetwork' object has no attribute 'loss'

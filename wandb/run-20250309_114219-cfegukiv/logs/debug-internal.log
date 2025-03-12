@@ -1,0 +1,16 @@
+{"time":"2025-03-09T11:42:19.470198+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250309_114219-cfegukiv\\logs\\debug-core.log"}
+{"time":"2025-03-09T11:42:19.6041386+05:30","level":"INFO","msg":"created new stream","id":"cfegukiv"}
+{"time":"2025-03-09T11:42:19.6041386+05:30","level":"INFO","msg":"stream: started","id":"cfegukiv"}
+{"time":"2025-03-09T11:42:19.6041386+05:30","level":"INFO","msg":"handler: started","stream_id":"cfegukiv"}
+{"time":"2025-03-09T11:42:19.6041386+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cfegukiv"}
+{"time":"2025-03-09T11:42:19.6041386+05:30","level":"INFO","msg":"sender: started","stream_id":"cfegukiv"}
+{"time":"2025-03-09T11:42:21.3513176+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T11:42:22.3393472+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T11:42:22.3407852+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T11:42:23.3588962+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.396661,"progress":"462B/462B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.396661,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.0052017,"progress":"921B/921B"}],"total_operations":3}}
+{"time":"2025-03-09T11:42:23.8573303+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T11:42:25.3995501+05:30","level":"INFO","msg":"stream: closing","id":"cfegukiv"}
+{"time":"2025-03-09T11:42:25.3995501+05:30","level":"INFO","msg":"handler: closed","stream_id":"cfegukiv"}
+{"time":"2025-03-09T11:42:25.3995501+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cfegukiv"}
+{"time":"2025-03-09T11:42:25.3995501+05:30","level":"INFO","msg":"sender: closed","stream_id":"cfegukiv"}
+{"time":"2025-03-09T11:42:25.4001676+05:30","level":"INFO","msg":"stream: closed","id":"cfegukiv"}

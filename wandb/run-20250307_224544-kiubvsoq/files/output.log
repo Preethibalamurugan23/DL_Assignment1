@@ -1,0 +1,7 @@
+Starting sweep: hl_3_bs_64_ac_tanh
+Epoch 0, Val Loss: 2.3366
+Epoch 1, Val Loss: 2.3346
+Epoch 2, Val Loss: 2.3326
+Epoch 3, Val Loss: 2.3306
+Epoch 4, Val Loss: 2.3286
+Completed sweep: hl_3_bs_64_ac_tanh

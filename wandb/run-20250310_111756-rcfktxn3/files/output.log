@@ -1,0 +1,10 @@
+Epoch 1/10 | Train Loss: 2.3053, Train Acc: 0.1207 | Val Loss: 2.2986, Val Acc: 0.1520
+Epoch 2/10 | Train Loss: 2.2995, Train Acc: 0.1522 | Val Loss: 2.2938, Val Acc: 0.1663
+Epoch 3/10 | Train Loss: 2.2947, Train Acc: 0.1650 | Val Loss: 2.2891, Val Acc: 0.1732
+Epoch 4/10 | Train Loss: 2.2902, Train Acc: 0.1717 | Val Loss: 2.2845, Val Acc: 0.1782
+Epoch 5/10 | Train Loss: 2.2858, Train Acc: 0.1756 | Val Loss: 2.2802, Val Acc: 0.1810
+Epoch 6/10 | Train Loss: 2.2816, Train Acc: 0.1789 | Val Loss: 2.2760, Val Acc: 0.1830
+Epoch 7/10 | Train Loss: 2.2775, Train Acc: 0.1816 | Val Loss: 2.2719, Val Acc: 0.1863
+Epoch 8/10 | Train Loss: 2.2736, Train Acc: 0.1835 | Val Loss: 2.2678, Val Acc: 0.1880
+Epoch 9/10 | Train Loss: 2.2696, Train Acc: 0.1861 | Val Loss: 2.2637, Val Acc: 0.1913
+Epoch 10/10 | Train Loss: 2.2655, Train Acc: 0.1883 | Val Loss: 2.2595, Val Acc: 0.1938

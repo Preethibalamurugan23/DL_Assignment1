@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_21872\237226334.py", line 5, in sweep_train
+    model.train()
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_21872\3952682249.py", line 86, in train
+    train_accuracy = compute_accuracy(y_train_onehot, activations[len(self.layers) - 1])
+                     ^^^^^^^^^^^^^^^^
+NameError: name 'compute_accuracy' is not defined. Did you mean: 'self.compute_accuracy'?

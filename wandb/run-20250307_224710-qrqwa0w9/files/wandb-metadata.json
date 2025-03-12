@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-11-10.0.22631-SP0",
+  "python":  "CPython 3.12.8",
+  "startedAt":  "2025-03-07T17:17:10.768295Z",
+  "program":  "c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\Untitled-1.ipynb",
+  "codePath":  "Untitled-1.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Preethibalamurugan23/DL_Assignment1.git",
+    "commit":  "2b670b3ee1ebee6dd64cf0af82bcf0274aea9051"
+  },
+  "email":  "mm21b051@smail.iitm.ac.in",
+  "root":  "c:\\Users\\Preethi\\Downloads\\Assgn1_DL",
+  "host":  "LAPTOP-0L30NIKE",
+  "executable":  "c:\\Users\\Preethi\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "codePathLocal":  "Untitled-1.ipynb",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "1023073579008",
+      "used":  "151680475136"
+    }
+  },
+  "memory":  {
+    "total":  "16832090112"
+  },
+  "cpu":  {
+    "count":  10,
+    "countLogical":  12
+  }
+}

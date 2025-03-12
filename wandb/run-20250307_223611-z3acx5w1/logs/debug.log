@@ -1,0 +1,323 @@
+2025-03-07 22:36:11,531 INFO    Thread-21 (_run_job):47772 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-07 22:36:11,532 INFO    Thread-21 (_run_job):47772 [wandb_setup.py:_flush():67] Configure stats pid to 47772
+2025-03-07 22:36:11,532 INFO    Thread-21 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Preethi\.config\wandb\settings
+2025-03-07 22:36:11,533 INFO    Thread-21 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from c:\Users\Preethi\Downloads\Assgn1_DL\wandb\settings
+2025-03-07 22:36:11,533 INFO    Thread-21 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-07 22:36:11,534 INFO    Thread-21 (_run_job):47772 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223611-z3acx5w1\logs\debug.log
+2025-03-07 22:36:11,535 INFO    Thread-21 (_run_job):47772 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223611-z3acx5w1\logs\debug-internal.log
+2025-03-07 22:36:11,535 INFO    Thread-21 (_run_job):47772 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000200541EF9E0>
+2025-03-07 22:36:11,535 INFO    Thread-21 (_run_job):47772 [wandb_init.py:init():761] calling init triggers
+2025-03-07 22:36:11,535 INFO    Thread-21 (_run_job):47772 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 32, 'epochs': 5, 'hidden_layers': 5, 'hidden_size': 32, 'learning_rate': 0.001, 'optimizer': 'adam', 'weight_decay': 0.5, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-07 22:36:11,535 INFO    Thread-21 (_run_job):47772 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-07 22:36:11,535 ERROR   Thread-21 (_run_job):47772 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+         ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-03-07 22:36:11,615 INFO    Thread-21 (_run_job):47772 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/w9g606ho
+2025-03-07 22:36:15,763 INFO    Thread-24 (_run_job):47772 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-07 22:36:15,764 INFO    Thread-24 (_run_job):47772 [wandb_setup.py:_flush():67] Configure stats pid to 47772
+2025-03-07 22:36:15,764 INFO    Thread-24 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Preethi\.config\wandb\settings
+2025-03-07 22:36:15,764 INFO    Thread-24 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from c:\Users\Preethi\Downloads\Assgn1_DL\wandb\settings
+2025-03-07 22:36:15,764 INFO    Thread-24 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-07 22:36:15,765 INFO    Thread-24 (_run_job):47772 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223615-hh9jknk6\logs\debug.log
+2025-03-07 22:36:15,765 INFO    Thread-24 (_run_job):47772 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223615-hh9jknk6\logs\debug-internal.log
+2025-03-07 22:36:15,765 INFO    Thread-24 (_run_job):47772 [wandb_init.py:init():761] calling init triggers
+2025-03-07 22:36:15,766 INFO    Thread-24 (_run_job):47772 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'tanh', 'batch_size': 16, 'epochs': 10, 'hidden_layers': 5, 'hidden_size': 32, 'learning_rate': 0.0001, 'optimizer': 'adam', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-07 22:36:15,766 INFO    Thread-24 (_run_job):47772 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-07 22:36:15,766 ERROR   Thread-24 (_run_job):47772 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+         ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-03-07 22:36:15,777 INFO    Thread-24 (_run_job):47772 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/w9g606ho
+2025-03-07 22:36:21,280 INFO    Thread-27 (_run_job):47772 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-07 22:36:21,281 INFO    Thread-27 (_run_job):47772 [wandb_setup.py:_flush():67] Configure stats pid to 47772
+2025-03-07 22:36:21,281 INFO    Thread-27 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Preethi\.config\wandb\settings
+2025-03-07 22:36:21,281 INFO    Thread-27 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from c:\Users\Preethi\Downloads\Assgn1_DL\wandb\settings
+2025-03-07 22:36:21,281 INFO    Thread-27 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-07 22:36:21,281 INFO    Thread-27 (_run_job):47772 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223621-g2x41ilq\logs\debug.log
+2025-03-07 22:36:21,281 INFO    Thread-27 (_run_job):47772 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223621-g2x41ilq\logs\debug-internal.log
+2025-03-07 22:36:21,282 INFO    Thread-27 (_run_job):47772 [wandb_init.py:init():761] calling init triggers
+2025-03-07 22:36:21,282 INFO    Thread-27 (_run_job):47772 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 32, 'epochs': 5, 'hidden_layers': 4, 'hidden_size': 128, 'learning_rate': 0.0001, 'optimizer': 'nadam', 'weight_decay': 0.5, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-07 22:36:21,282 INFO    Thread-27 (_run_job):47772 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-07 22:36:21,282 ERROR   Thread-27 (_run_job):47772 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+         ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-03-07 22:36:21,289 INFO    Thread-27 (_run_job):47772 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/w9g606ho
+2025-03-07 22:36:26,817 INFO    Thread-30 (_run_job):47772 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-07 22:36:26,818 INFO    Thread-30 (_run_job):47772 [wandb_setup.py:_flush():67] Configure stats pid to 47772
+2025-03-07 22:36:26,819 INFO    Thread-30 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Preethi\.config\wandb\settings
+2025-03-07 22:36:26,819 INFO    Thread-30 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from c:\Users\Preethi\Downloads\Assgn1_DL\wandb\settings
+2025-03-07 22:36:26,819 INFO    Thread-30 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-07 22:36:26,820 INFO    Thread-30 (_run_job):47772 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223626-8zzefm5i\logs\debug.log
+2025-03-07 22:36:26,821 INFO    Thread-30 (_run_job):47772 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223626-8zzefm5i\logs\debug-internal.log
+2025-03-07 22:36:26,821 INFO    Thread-30 (_run_job):47772 [wandb_init.py:init():761] calling init triggers
+2025-03-07 22:36:26,821 INFO    Thread-30 (_run_job):47772 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'tanh', 'batch_size': 32, 'epochs': 5, 'hidden_layers': 4, 'hidden_size': 64, 'learning_rate': 0.0001, 'optimizer': 'rmsprop', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-07 22:36:26,822 INFO    Thread-30 (_run_job):47772 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-07 22:36:26,822 ERROR   Thread-30 (_run_job):47772 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+         ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-03-07 22:36:26,830 INFO    Thread-30 (_run_job):47772 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/w9g606ho
+2025-03-07 22:36:32,442 INFO    Thread-33 (_run_job):47772 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-07 22:36:32,442 INFO    Thread-33 (_run_job):47772 [wandb_setup.py:_flush():67] Configure stats pid to 47772
+2025-03-07 22:36:32,442 INFO    Thread-33 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Preethi\.config\wandb\settings
+2025-03-07 22:36:32,443 INFO    Thread-33 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from c:\Users\Preethi\Downloads\Assgn1_DL\wandb\settings
+2025-03-07 22:36:32,443 INFO    Thread-33 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-07 22:36:32,443 INFO    Thread-33 (_run_job):47772 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223632-3m6jv11g\logs\debug.log
+2025-03-07 22:36:32,444 INFO    Thread-33 (_run_job):47772 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223632-3m6jv11g\logs\debug-internal.log
+2025-03-07 22:36:32,444 INFO    Thread-33 (_run_job):47772 [wandb_init.py:init():761] calling init triggers
+2025-03-07 22:36:32,445 INFO    Thread-33 (_run_job):47772 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'tanh', 'batch_size': 32, 'epochs': 10, 'hidden_layers': 3, 'hidden_size': 128, 'learning_rate': 0.001, 'optimizer': 'nesterov', 'weight_decay': 0, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-07 22:36:32,445 INFO    Thread-33 (_run_job):47772 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-07 22:36:32,445 ERROR   Thread-33 (_run_job):47772 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+         ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-03-07 22:36:32,459 INFO    Thread-33 (_run_job):47772 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/w9g606ho
+2025-03-07 22:36:38,070 INFO    Thread-36 (_run_job):47772 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-07 22:36:38,071 INFO    Thread-36 (_run_job):47772 [wandb_setup.py:_flush():67] Configure stats pid to 47772
+2025-03-07 22:36:38,071 INFO    Thread-36 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Preethi\.config\wandb\settings
+2025-03-07 22:36:38,071 INFO    Thread-36 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from c:\Users\Preethi\Downloads\Assgn1_DL\wandb\settings
+2025-03-07 22:36:38,071 INFO    Thread-36 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-07 22:36:38,072 INFO    Thread-36 (_run_job):47772 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223638-dlshzqjk\logs\debug.log
+2025-03-07 22:36:38,072 INFO    Thread-36 (_run_job):47772 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223638-dlshzqjk\logs\debug-internal.log
+2025-03-07 22:36:38,073 INFO    Thread-36 (_run_job):47772 [wandb_init.py:init():761] calling init triggers
+2025-03-07 22:36:38,073 INFO    Thread-36 (_run_job):47772 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'relu', 'batch_size': 32, 'epochs': 10, 'hidden_layers': 5, 'hidden_size': 32, 'learning_rate': 0.001, 'optimizer': 'nadam', 'weight_decay': 0.5, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-07 22:36:38,073 INFO    Thread-36 (_run_job):47772 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-07 22:36:38,074 ERROR   Thread-36 (_run_job):47772 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+         ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-03-07 22:36:38,086 INFO    Thread-36 (_run_job):47772 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/w9g606ho
+2025-03-07 22:37:27,902 INFO    MainThread:47772 [pyagent.py:run():322] Starting sweep agent: entity=None, project=None, count=20
+2025-03-07 22:37:29,445 INFO    Thread-40 (_run_job):47772 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-07 22:37:29,445 INFO    Thread-40 (_run_job):47772 [wandb_setup.py:_flush():67] Configure stats pid to 47772
+2025-03-07 22:37:29,445 INFO    Thread-40 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Preethi\.config\wandb\settings
+2025-03-07 22:37:29,445 INFO    Thread-40 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from c:\Users\Preethi\Downloads\Assgn1_DL\wandb\settings
+2025-03-07 22:37:29,446 INFO    Thread-40 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-07 22:37:29,446 INFO    Thread-40 (_run_job):47772 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223729-6h41sotj\logs\debug.log
+2025-03-07 22:37:29,447 INFO    Thread-40 (_run_job):47772 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223729-6h41sotj\logs\debug-internal.log
+2025-03-07 22:37:29,447 INFO    Thread-40 (_run_job):47772 [wandb_init.py:init():761] calling init triggers
+2025-03-07 22:37:29,447 INFO    Thread-40 (_run_job):47772 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 16, 'epochs': 5, 'hidden_layers': 5, 'hidden_size': 64, 'learning_rate': 0.001, 'optimizer': 'rmsprop', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-07 22:37:29,448 INFO    Thread-40 (_run_job):47772 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-07 22:37:29,448 ERROR   Thread-40 (_run_job):47772 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+         ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-03-07 22:37:29,461 INFO    Thread-40 (_run_job):47772 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/w9g606ho
+2025-03-07 22:37:35,070 INFO    Thread-43 (_run_job):47772 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-07 22:37:35,071 INFO    Thread-43 (_run_job):47772 [wandb_setup.py:_flush():67] Configure stats pid to 47772
+2025-03-07 22:37:35,071 INFO    Thread-43 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Preethi\.config\wandb\settings
+2025-03-07 22:37:35,071 INFO    Thread-43 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from c:\Users\Preethi\Downloads\Assgn1_DL\wandb\settings
+2025-03-07 22:37:35,072 INFO    Thread-43 (_run_job):47772 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-07 22:37:35,072 INFO    Thread-43 (_run_job):47772 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223735-qr8my80f\logs\debug.log
+2025-03-07 22:37:35,073 INFO    Thread-43 (_run_job):47772 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250307_223735-qr8my80f\logs\debug-internal.log
+2025-03-07 22:37:35,073 INFO    Thread-43 (_run_job):47772 [wandb_init.py:init():761] calling init triggers
+2025-03-07 22:37:35,074 INFO    Thread-43 (_run_job):47772 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'tanh', 'batch_size': 64, 'epochs': 5, 'hidden_layers': 3, 'hidden_size': 128, 'learning_rate': 0.0001, 'optimizer': 'sgd', 'weight_decay': 0, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-07 22:37:35,074 INFO    Thread-43 (_run_job):47772 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-07 22:37:35,074 ERROR   Thread-43 (_run_job):47772 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_init.py", line 779, in init
+    with telemetry.context() as tel:
+         ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 749, in _telemetry_callback
+    self._telemetry_flush()
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\wandb_run.py", line 762, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_shared.py", line 70, in _publish_telemetry
+    self._publish(rec)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\interface\interface_sock.py", line 46, in _publish
+    self._sock_client.send_record_publish(record)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 224, in send_record_publish
+    self.send_server_request(server_req)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 154, in send_server_request
+    self._send_message(msg)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 151, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "c:\Users\Preethi\AppData\Local\Programs\Python\Python312\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 130, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-03-07 22:37:35,091 INFO    Thread-43 (_run_job):47772 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/w9g606ho
+2025-03-07 22:39:39,145 INFO    MainThread:47772 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/w9g606ho

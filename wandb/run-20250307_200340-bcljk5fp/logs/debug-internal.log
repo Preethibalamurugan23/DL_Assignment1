@@ -1,0 +1,16 @@
+{"time":"2025-03-07T20:03:43.4883274+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250307_200340-bcljk5fp\\logs\\debug-core.log"}
+{"time":"2025-03-07T20:03:43.6159916+05:30","level":"INFO","msg":"created new stream","id":"bcljk5fp"}
+{"time":"2025-03-07T20:03:43.6159916+05:30","level":"INFO","msg":"stream: started","id":"bcljk5fp"}
+{"time":"2025-03-07T20:03:43.6172347+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bcljk5fp"}
+{"time":"2025-03-07T20:03:43.6172347+05:30","level":"INFO","msg":"handler: started","stream_id":"bcljk5fp"}
+{"time":"2025-03-07T20:03:43.6177552+05:30","level":"INFO","msg":"sender: started","stream_id":"bcljk5fp"}
+{"time":"2025-03-07T20:03:44.2595743+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T20:11:01.3033082+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T20:11:01.3044182+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T20:11:02.3126494+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.0807058},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0807058}],"total_operations":2}}
+{"time":"2025-03-07T20:11:04.040751+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T20:11:05.5786351+05:30","level":"INFO","msg":"stream: closing","id":"bcljk5fp"}
+{"time":"2025-03-07T20:11:05.5786351+05:30","level":"INFO","msg":"handler: closed","stream_id":"bcljk5fp"}
+{"time":"2025-03-07T20:11:05.5786351+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bcljk5fp"}
+{"time":"2025-03-07T20:11:05.5786351+05:30","level":"INFO","msg":"sender: closed","stream_id":"bcljk5fp"}
+{"time":"2025-03-07T20:11:05.5798879+05:30","level":"INFO","msg":"stream: closed","id":"bcljk5fp"}

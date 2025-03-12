@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_21872\1866825781.py", line 6, in sweep_train
+    model = NeuralNetwork(config)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Preethi\AppData\Local\Temp\ipykernel_21872\1225863754.py", line 26, in __init__
+    self.velocities = {i: np.zeros_like(self.weights[i]) for i in self.weights}
+                                                                  ^^^^^^^^^^^^
+AttributeError: 'NeuralNetwork' object has no attribute 'weights'
