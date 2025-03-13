@@ -1,0 +1,16 @@
+{"time":"2025-03-13T23:06:50.0221222+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250313_230646-ors0ru41\\logs\\debug-core.log"}
+{"time":"2025-03-13T23:06:50.1439092+05:30","level":"INFO","msg":"created new stream","id":"ors0ru41"}
+{"time":"2025-03-13T23:06:50.1444141+05:30","level":"INFO","msg":"stream: started","id":"ors0ru41"}
+{"time":"2025-03-13T23:06:50.1444141+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ors0ru41"}
+{"time":"2025-03-13T23:06:50.1444141+05:30","level":"INFO","msg":"handler: started","stream_id":"ors0ru41"}
+{"time":"2025-03-13T23:06:50.1444141+05:30","level":"INFO","msg":"sender: started","stream_id":"ors0ru41"}
+{"time":"2025-03-13T23:06:50.5777109+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-13T23:14:16.799225+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-13T23:14:16.8024113+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-13T23:14:17.821766+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4141232,"progress":"1.1KB/1.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4141232,"progress":"133B/133B"},{"desc":"uploading config.yaml","runtime_seconds":0.1260741,"progress":"667B/667B"}],"total_operations":3}}
+{"time":"2025-03-13T23:14:18.0823757+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-13T23:14:19.4723294+05:30","level":"INFO","msg":"stream: closing","id":"ors0ru41"}
+{"time":"2025-03-13T23:14:19.4723294+05:30","level":"INFO","msg":"handler: closed","stream_id":"ors0ru41"}
+{"time":"2025-03-13T23:14:19.4723294+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ors0ru41"}
+{"time":"2025-03-13T23:14:19.4723294+05:30","level":"INFO","msg":"sender: closed","stream_id":"ors0ru41"}
+{"time":"2025-03-13T23:14:19.4728356+05:30","level":"INFO","msg":"stream: closed","id":"ors0ru41"}

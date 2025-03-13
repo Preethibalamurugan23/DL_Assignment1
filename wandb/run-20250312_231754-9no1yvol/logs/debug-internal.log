@@ -1,1 +1,38 @@
 {"time":"2025-03-12T23:17:54.9707773+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250312_231754-9no1yvol\\logs\\debug-core.log"}
+{"time":"2025-03-12T23:17:55.5793815+05:30","level":"INFO","msg":"created new stream","id":"9no1yvol"}
+{"time":"2025-03-12T23:17:55.5793815+05:30","level":"INFO","msg":"stream: started","id":"9no1yvol"}
+{"time":"2025-03-12T23:17:55.5793815+05:30","level":"INFO","msg":"handler: started","stream_id":"9no1yvol"}
+{"time":"2025-03-12T23:17:55.5793815+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9no1yvol"}
+{"time":"2025-03-12T23:17:55.5799387+05:30","level":"INFO","msg":"sender: started","stream_id":"9no1yvol"}
+{"time":"2025-03-12T23:17:56.1977313+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-12T23:17:56.9591592+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T23:18:57.3574146+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T23:19:28.1146723+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T23:20:48.208533+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T23:24:05.4405079+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-13T00:12:23.195915+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.0.103:65265->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-03-13T00:12:25.3372+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-03-13T09:33:29.4194093+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/9no1yvol/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-13T09:33:29.420126+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-13T09:33:30.9462584+05:30","level":"WARN","msg":"sender: taking a long time","seconds":33665.3248196,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"k8fvfaaz6szq\"  connection_id:\"127.0.0.1:65260\")"}
+{"time":"2025-03-13T09:33:31.4553188+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/9no1yvol/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-13T09:33:35.4641512+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/9no1yvol/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-13T09:33:38.3931058+05:30","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":33675.2105062,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"k8fvfaaz6szq\"  connection_id:\"127.0.0.1:65260\")"}
+{"time":"2025-03-13T11:10:12.4547555+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/9no1yvol/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-13T20:14:06.9434446+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/9no1yvol/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-13T20:14:10.9704768+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/9no1yvol/file_stream\": dial tcp 35.186.228.49:443: connectex: An established connection was aborted by the software in your host machine."}
+{"time":"2025-03-13T20:14:15.0335015+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/9no1yvol/file_stream\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable network."}
+{"time":"2025-03-13T22:47:31.5053019+05:30","level":"WARN","msg":"sender: taking a long time","seconds":9198.6709312,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"cmztblilehgw\"  connection_id:\"127.0.0.1:65260\")"}
+{"time":"2025-03-13T22:47:31.9559499+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-13T22:47:32.1184127+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/9no1yvol/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-13T22:47:35.4573805+05:30","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":9202.6240236,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"cmztblilehgw\"  connection_id:\"127.0.0.1:65260\")"}
+{"time":"2025-03-13T22:50:39.2437681+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-13T22:50:40.102445+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-13T22:50:40.1073242+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-13T22:50:41.1554539+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4476723,"progress":"1.1KB/1.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4476723,"progress":"155B/155B"},{"desc":"uploading config.yaml","runtime_seconds":0.1099006,"progress":"586B/586B"}],"total_operations":3}}
+{"time":"2025-03-13T22:50:41.5906876+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-13T22:50:42.9914464+05:30","level":"INFO","msg":"stream: closing","id":"9no1yvol"}
+{"time":"2025-03-13T22:50:42.9914464+05:30","level":"INFO","msg":"handler: closed","stream_id":"9no1yvol"}
+{"time":"2025-03-13T22:50:42.9914464+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9no1yvol"}
+{"time":"2025-03-13T22:50:42.9920716+05:30","level":"INFO","msg":"sender: closed","stream_id":"9no1yvol"}
+{"time":"2025-03-13T22:50:42.9920716+05:30","level":"INFO","msg":"stream: closed","id":"9no1yvol"}

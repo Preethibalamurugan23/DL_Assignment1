@@ -1,0 +1,11 @@
+2025-03-13 23:30:02,153 INFO    MainThread:884 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250313_233002-avvhujgh\logs\debug.log
+2025-03-13 23:30:02,154 INFO    MainThread:884 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250313_233002-avvhujgh\logs\debug-internal.log
+2025-03-13 23:30:02,154 INFO    MainThread:884 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001CA5E932990>
+2025-03-13 23:30:02,154 INFO    MainThread:884 [wandb_init.py:init():761] calling init triggers
+2025-03-13 23:30:02,154 INFO    MainThread:884 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-13 23:30:02,155 INFO    MainThread:884 [wandb_init.py:init():773] finishing previous run: plym47wy
+2025-03-13 23:30:02,155 INFO    MainThread:884 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/plym47wy
+2025-03-13 23:30:02,156 INFO    MainThread:884 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-03-13 23:30:02,156 INFO    MainThread:884 [wandb_run.py:_restore():2324] restore
+2025-03-13 23:30:02,157 INFO    MainThread:884 [wandb_run.py:_restore():2330] restore done

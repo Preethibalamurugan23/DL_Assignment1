@@ -1,0 +1,255 @@
+
+Training with optimizer: nadam
+Epoch 0, Loss: 0.5965
+Epoch 1, Loss: 0.5201
+Epoch 2, Loss: 0.5339
+Epoch 3, Loss: 0.6372
+Epoch 4, Loss: 0.6763
+Epoch 5, Loss: 0.6668
+Epoch 6, Loss: 0.7095
+Epoch 7, Loss: 0.8105
+Epoch 8, Loss: 0.8313
+Epoch 9, Loss: 0.7821
+Epoch 10, Loss: 0.8281
+Epoch 11, Loss: 0.8458
+Epoch 12, Loss: 0.9268
+Epoch 13, Loss: 0.9297
+Epoch 14, Loss: 1.1763
+Epoch 15, Loss: 1.1860
+Epoch 16, Loss: 0.9441
+Epoch 17, Loss: 1.0165
+Epoch 18, Loss: 0.9367
+Epoch 19, Loss: 0.9160
+Epoch 20, Loss: 1.0906
+Epoch 21, Loss: 1.1326
+Epoch 22, Loss: 1.2764
+Epoch 23, Loss: 1.0408
+Epoch 24, Loss: 1.0265
+Epoch 25, Loss: 1.1792
+Epoch 26, Loss: 1.0270
+Epoch 27, Loss: 1.0534
+Epoch 28, Loss: 1.2105
+Epoch 29, Loss: 1.5464
+Epoch 30, Loss: 1.3060
+Epoch 31, Loss: 1.8762
+Epoch 32, Loss: 1.4756
+Epoch 33, Loss: 1.3319
+Epoch 34, Loss: 1.3216
+Epoch 35, Loss: 1.1289
+Epoch 36, Loss: 2.1217
+Epoch 37, Loss: 2.8746
+Epoch 38, Loss: 4.1611
+Epoch 39, Loss: 3.4812
+Epoch 40, Loss: 4.0734
+Epoch 41, Loss: 3.0471
+Epoch 42, Loss: 3.6575
+Epoch 43, Loss: 5.5348
+Epoch 44, Loss: 4.6342
+Epoch 45, Loss: 3.8639
+Epoch 46, Loss: 3.7154
+Epoch 47, Loss: 6.8346
+Epoch 48, Loss: 3.3455
+Epoch 49, Loss: 4.8285
+https://wandb.ai/mm21b051-iitmaana/DeepLearning1/runs/avvhujgh
+GradientDescent og8bzw7h
+GradientDescent ujf8mom4
+GradientDescent x5tu2qu8
+Optimizer-sgd bcljk5fp
+Optimizer-sgd zx3lx194
+Optimizer-momentum n03da1y5
+Optimizer-nesterov fxtjq98y
+Optimizer-rmsprop kku48rfu
+Optimizer-adam 64ji7nct
+Optimizer-nadam w9g606ho
+valiant-sweep-1 z3acx5w1
+scarlet-sweep-2 hh9jknk6
+super-sweep-3 g2x41ilq
+northern-sweep-4 8zzefm5i
+crimson-sweep-5 3m6jv11g
+blooming-sweep-6 dlshzqjk
+rare-sweep-7 bcq43l88
+golden-sweep-8 6h41sotj
+crimson-sweep-9 qr8my80f
+happy-sweep-10 3k08hhfc
+hl_4_bs_64_ac_tanh ekh5ksaw
+polished-sweep-2 1g2ejv4f
+hl_3_bs_32_ac_relu 4jz37hzb
+hl_3_bs_64_ac_tanh kiubvsoq
+hl_5_bs_64_ac_relu t3lw3yy7
+hl_4_bs_16_ac_relu nu6n647j
+hl_4_bs_16_ac_sigmoid iq8byhub
+hl_5_bs_32_ac_relu qrqwa0w9
+hl_5_bs_64_ac_relu zdov0kkx
+hl_3_bs_64_ac_relu 0dgil7se
+hl_4_bs_64_ac_relu o4g7lenl
+hl_4_bs_32_ac_relu rgcn40p2
+hl_3_bs_32_ac_relu hmcepv2z
+hl_5_bs_32_ac_relu tekkh0x5
+hl_4_bs_32_ac_relu 7uh4y8dp
+hl_3_bs_64_ac_relu ets43m7d
+hl_5_bs_64_ac_relu jqq0ypl0
+hl_5_bs_32_ac_relu e89fle5j
+hl_3_bs_16_ac_relu c9c7l3hb
+hl_5_bs_32_ac_relu tozdh0i7
+hl_4_bs_16_ac_relu scn6ongk
+hl_4_bs_32_ac_relu otvk3pur
+prime-sweep-1 3ifzk0hn
+comfy-sweep-2 w0vx7rcp
+bumbling-sweep-3 cfegukiv
+soft-sweep-1 z3c0gb84
+colorful-sweep-2 fncj1iq0
+zany-sweep-3 cj9leqki
+daily-sweep-4 4t65mzqf
+good-sweep-1 u3ad5qao
+hl_3_bs_32_ac_sigmoid ogk12ml3
+hl_5_bs_32_ac_sigmoid 609309jw
+hl_5_bs_16_ac_sigmoid 8bvdwk9g
+hl_5_bs_32_ac_sigmoid 17di3xpt
+hl_5_bs_16_ac_tanh 9honxk8j
+hl_5_bs_32_ac_tanh v9n6cmul
+hl_5_bs_16_ac_sigmoid 24hbr7kq
+hl_5_bs_32_ac_relu vtyj1dea
+hl_5_bs_64_ac_relu i2j8mi93
+hl_5_bs_64_ac_sigmoid ejp2k6f1
+hl_5_bs_32_ac_tanh a73gx2kb
+hl_5_bs_32_ac_tanh 87g76cq4
+hl_5_bs_64_ac_relu 7a78egk0
+hl_5_bs_16_ac_relu 7mpi6mti
+hl_5_bs_64_ac_relu y78swvlp
+hl_5_bs_16_ac_tanh eb1nd2q0
+hl_5_bs_32_ac_relu g2os3juy
+hl_5_bs_64_ac_relu 6fn0hjr4
+hl_5_bs_32_ac_tanh z817o4u3
+hl_5_bs_16_ac_relu 3tnrhp7p
+hl_3_bs_32_ac_sigmoid it9u1itp
+hl_4_bs_64_ac_sigmoid k4c7durc
+hl_4_bs_64_ac_sigmoid q49uhzqa
+hl_4_bs_64_ac_sigmoid w8v554dv
+hl_4_bs_64_ac_sigmoid 9nix636j
+hl_4_bs_64_ac_sigmoid v5racek9
+hl_5_bs_64_ac_tanh 00hdoti2
+hl_5_bs_64_ac_tanh gcp1qiqp
+hl_5_bs_32_ac_relu hvnut7hw
+hl_5_bs_64_ac_tanh fanyi72h
+hl_4_bs_64_ac_relu qiberco3
+hl_5_bs_64_ac_relu wn8qzfo7
+hl_3_bs_64_ac_tanh n7y003x6
+hl_5_bs_64_ac_tanh azzv2yjn
+hl_5_bs_32_ac_sigmoid ej9oqko4
+hl_4_bs_64_ac_tanh xrrvpqpa
+hl_4_bs_64_ac_relu n11ufnza
+hl_5_bs_32_ac_relu wgqvuxos
+hl_5_bs_64_ac_relu cdcyngu4
+hl_5_bs_16_ac_relu ykv7scfm
+hl_3_bs_64_ac_tanh gzehnik7
+hl_5_bs_64_ac_sigmoid fdgzsmyd
+hl_5_bs_32_ac_sigmoid y54yzdls
+hl_5_bs_32_ac_relu 8j8y419j
+hl_5_bs_32_ac_tanh lgw4ss86
+hl_4_bs_64_ac_tanh c0znow76
+hl_5_bs_64_ac_sigmoid us8aw90i
+hl_5_bs_64_ac_relu 3h6hwtih
+hl_5_bs_64_ac_relu ldq6e09h
+hl_4_bs_32_ac_tanh ib7u2lan
+hl_4_bs_64_ac_relu q2niu0go
+hl_4_bs_64_ac_tanh okkyvgkw
+hl_4_bs_16_ac_tanh fqe250sb
+hl_5_bs_64_ac_tanh p6l29cok
+hl_5_bs_64_ac_sigmoid fcyr33td
+hl_4_bs_64_ac_tanh augl63ws
+hl_5_bs_32_ac_tanh 3nm4fcgb
+hl_4_bs_64_ac_relu 536sppu8
+hl_5_bs_64_ac_sigmoid e59ncuqt
+hl_5_bs_32_ac_relu 8ewf8hoz
+hl_5_bs_64_ac_sigmoid nym529cm
+hl_5_bs_32_ac_tanh cr0181oo
+hl_5_bs_64_ac_relu hurvxcm5
+hl_4_bs_64_ac_relu dyott1q5
+hl_5_bs_64_ac_sigmoid wl7swtmr
+hl_3_bs_64_ac_relu nq5v8bc3
+hl_5_bs_32_ac_tanh bs7kvjsd
+hl_5_bs_16_ac_relu ay2lhuvn
+hl_4_bs_64_ac_sigmoid gl1v625o
+hl_5_bs_64_ac_tanh 2madh08o
+hl_5_bs_64_ac_tanh 6w4vvrqu
+hl_5_bs_32_ac_tanh iuzzo45e
+hl_5_bs_32_ac_relu dd79i8tn
+hl_5_bs_64_ac_sigmoid l98fiv89
+hl_5_bs_32_ac_tanh 9kvcrw53
+hl_5_bs_32_ac_relu f0cjpzep
+hl_5_bs_64_ac_sigmoid m747wxtn
+hl_5_bs_32_ac_sigmoid irs7bskr
+hl_5_bs_64_ac_sigmoid v6wo0its
+hl_4_bs_64_ac_relu xmhg2bs3
+hl_5_bs_32_ac_relu t33n4xdh
+hl_4_bs_32_ac_sigmoid fqxkg6zw
+hl_5_bs_64_ac_sigmoid 468z1hwo
+hl_4_bs_32_ac_tanh g1pxodde
+hl_4_bs_32_ac_relu v5p53olx
+hl_3_bs_64_ac_relu qnijnfiz
+hl_5_bs_16_ac_relu bcpcrijz
+hl_5_bs_16_ac_tanh 8tt71m4n
+hl_4_bs_64_ac_sigmoid 7y0n4utb
+hl_5_bs_64_ac_tanh fabdtzun
+hl_5_bs_16_ac_tanh izenhqn3
+hl_5_bs_64_ac_sigmoid pp68x7ms
+hl_5_bs_32_ac_tanh wiohmdmk
+hl_5_bs_64_ac_tanh dpwj0ma5
+hl_5_bs_32_ac_relu 10rib6ck
+hl_5_bs_64_ac_tanh 89zk26yq
+hl_4_bs_64_ac_sigmoid b16hkax5
+hl_5_bs_64_ac_sigmoid 9iz2faq1
+hl_5_bs_32_ac_relu nbhy6mlt
+hl_4_bs_64_ac_relu mj0k7vhn
+hl_5_bs_64_ac_sigmoid degkyj8a
+hl_3_bs_64_ac_relu a3k67woz
+hl_5_bs_32_ac_relu 1w5sbkqu
+hl_5_bs_64_ac_tanh su5x2csz
+hl_3_bs_64_ac_sigmoid zcavh1p1
+hl_3_bs_64_ac_tanh l25j7x8y
+hl_4_bs_64_ac_sigmoid jxwdvmjt
+hl_4_bs_64_ac_sigmoid mbshjk9h
+hl_5_bs_64_ac_relu gr72bywr
+hl_3_bs_64_ac_tanh t26zbh0l
+hl_4_bs_64_ac_tanh f8l20k9y
+hl_5_bs_64_ac_relu haiux00y
+hl_3_bs_32_ac_sigmoid 3o1qnxtw
+hl_4_bs_64_ac_relu 5x45ry3g
+hl_4_bs_64_ac_relu 4z01roe2
+hl_5_bs_16_ac_relu bth0cvv3
+hl_3_bs_64_ac_tanh j02imahs
+hl_5_bs_64_ac_sigmoid x1wunvnc
+hl_5_bs_32_ac_relu 0doqgfhe
+Model_Comparison vrbay6qr
+hl_4_bs_32_ac_relu i5lvnyj3
+hl_5_bs_32_ac_sigmoid j03902ig
+hl_3_bs_32_ac_relu kbi2j3qr
+hl_4_bs_32_ac_relu sfal0w2d
+helpful-sweep-5 xh2x6e2t
+hl_3_bs_16_ac_sigmoid vpaxzfa4
+tough-sweep-7 v3zae360
+hl_4_bs_16_ac_tanh okvmvtgp
+twilight-sweep-9 4dp7eqc0
+hl_4_bs_16_ac_tanh b6ff7d7s
+hl_4_bs_32_ac_sigmoid 5r9wc5r3
+hl_5_bs_64_ac_relu 0nst7ku6
+hl_5_bs_16_ac_sigmoid 722r6ymt
+hl_5_bs_16_ac_relu so9w1hcv
+hl_4_bs_32_ac_sigmoid nccwidbj
+hl_4_bs_16_ac_sigmoid 4iwy9fzc
+hl_5_bs_64_ac_sigmoid rnezrgb6
+hl_5_bs_16_ac_relu nbhrzf7o
+hl_3_bs_32_ac_tanh qzzufb09
+hl_3_bs_16_ac_relu s2lq6pzx
+hl_4_bs_32_ac_tanh e5kshm95
+hl_4_bs_64_ac_tanh r1j9p300
+GradientDescent xot07ain
+misunderstood-sweep-1 8u8n3dby
+wandering-sweep-2 rxj6tjxk
+scarlet-sweep-3 rcpfcqz9
+avid-sweep-4 gjbf44t6
+lyric-sweep-5 qpsaq9x2
+classic-sweep-6 yxxst9ki
+misunderstood-sweep-7 oxp2lemp
+{'loss': 4.828471760469, '_runtime': 522.2501912, '_step': 49, '_timestamp': 1741889327.2008967, '_wandb': {'runtime': 522}, 'epoch': 49}
+4.828471760469
