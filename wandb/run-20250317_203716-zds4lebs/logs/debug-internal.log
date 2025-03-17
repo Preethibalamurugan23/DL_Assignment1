@@ -1,0 +1,16 @@
+{"time":"2025-03-17T20:37:16.8785725+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250317_203716-zds4lebs\\logs\\debug-core.log"}
+{"time":"2025-03-17T20:37:17.0047308+05:30","level":"INFO","msg":"created new stream","id":"zds4lebs"}
+{"time":"2025-03-17T20:37:17.0047308+05:30","level":"INFO","msg":"handler: started","stream_id":"zds4lebs"}
+{"time":"2025-03-17T20:37:17.0047308+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zds4lebs"}
+{"time":"2025-03-17T20:37:17.0047308+05:30","level":"INFO","msg":"stream: started","id":"zds4lebs"}
+{"time":"2025-03-17T20:37:17.0047308+05:30","level":"INFO","msg":"sender: started","stream_id":"zds4lebs"}
+{"time":"2025-03-17T20:37:17.5071163+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T20:37:18.3499757+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T20:37:18.3515308+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T20:37:19.3522604+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\confusion_matrix_0_2bf9192c79c492df0557.png","runtime_seconds":0.3103764,"progress":"42.3KB/42.3KB"},{"desc":"uploading output.log","runtime_seconds":0.3103764},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3103764,"progress":"328B/328B"},{"desc":"uploading config.yaml","runtime_seconds":0.005537,"progress":"667B/667B"}],"total_operations":4}}
+{"time":"2025-03-17T20:37:19.7920036+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T20:37:21.1164276+05:30","level":"INFO","msg":"stream: closing","id":"zds4lebs"}
+{"time":"2025-03-17T20:37:21.1164276+05:30","level":"INFO","msg":"handler: closed","stream_id":"zds4lebs"}
+{"time":"2025-03-17T20:37:21.1164276+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zds4lebs"}
+{"time":"2025-03-17T20:37:21.1164276+05:30","level":"INFO","msg":"sender: closed","stream_id":"zds4lebs"}
+{"time":"2025-03-17T20:37:21.1169334+05:30","level":"INFO","msg":"stream: closed","id":"zds4lebs"}

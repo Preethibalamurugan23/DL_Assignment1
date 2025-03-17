@@ -1,0 +1,16 @@
+{"time":"2025-03-16T18:07:45.3798079+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250316_180745-lpsh2uot\\logs\\debug-core.log"}
+{"time":"2025-03-16T18:07:45.4995148+05:30","level":"INFO","msg":"created new stream","id":"lpsh2uot"}
+{"time":"2025-03-16T18:07:45.4995148+05:30","level":"INFO","msg":"stream: started","id":"lpsh2uot"}
+{"time":"2025-03-16T18:07:45.500025+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lpsh2uot"}
+{"time":"2025-03-16T18:07:45.500025+05:30","level":"INFO","msg":"handler: started","stream_id":"lpsh2uot"}
+{"time":"2025-03-16T18:07:45.500025+05:30","level":"INFO","msg":"sender: started","stream_id":"lpsh2uot"}
+{"time":"2025-03-16T18:07:45.8607367+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T18:08:03.0437847+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T18:08:03.0447078+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T18:08:04.0070355+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T18:08:04.0544439+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 4-4, summary, console lines 4-4","runtime_seconds":0.0470155}],"total_operations":1}}
+{"time":"2025-03-16T18:08:05.3682096+05:30","level":"INFO","msg":"stream: closing","id":"lpsh2uot"}
+{"time":"2025-03-16T18:08:05.3687257+05:30","level":"INFO","msg":"handler: closed","stream_id":"lpsh2uot"}
+{"time":"2025-03-16T18:08:05.3687257+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lpsh2uot"}
+{"time":"2025-03-16T18:08:05.3689195+05:30","level":"INFO","msg":"sender: closed","stream_id":"lpsh2uot"}
+{"time":"2025-03-16T18:08:05.3694311+05:30","level":"INFO","msg":"stream: closed","id":"lpsh2uot"}

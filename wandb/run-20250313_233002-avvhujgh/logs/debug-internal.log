@@ -5,3 +5,40 @@
 {"time":"2025-03-13T23:30:05.0880425+05:30","level":"INFO","msg":"handler: started","stream_id":"avvhujgh"}
 {"time":"2025-03-13T23:30:05.0880425+05:30","level":"INFO","msg":"sender: started","stream_id":"avvhujgh"}
 {"time":"2025-03-13T23:30:05.493769+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-13T23:38:47.26256+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-14T00:02:07.6977582+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-14T00:02:07.711644+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-14T00:02:43.0698887+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-14T00:02:43.1319859+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-14T00:04:05.5822804+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-14T00:04:05.5887322+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-14T00:05:02.5840341+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-14T00:05:08.1817668+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-14T00:05:32.7745112+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-14T00:05:33.9041225+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-14T00:05:59.3167794+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-14T00:06:00.4173977+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-14T00:06:42.1733514+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-14T00:08:07.3360466+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-14T00:08:12.1197484+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-14T00:08:13.2026286+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-14T00:10:04.2627662+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-14T00:10:04.2716142+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-14T13:46:02.662636+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/avvhujgh/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-14T13:46:04.9941725+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/avvhujgh/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-14T13:46:07.7492914+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-14T13:46:09.0417489+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/avvhujgh/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-14T13:46:09.9432581+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-15T16:15:03.5090538+05:30","level":"WARN","msg":"sender: taking a long time","seconds":95335.7664191,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"9ekt2kw47g5y\"  connection_id:\"127.0.0.1:65260\")"}
+{"time":"2025-03-15T16:15:03.5130471+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-15T16:15:03.5130471+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/avvhujgh/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-15T16:15:13.440309+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-15T16:15:21.6411075+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/avvhujgh/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-15T16:15:31.8321518+05:30","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":95364.0905175,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"9ekt2kw47g5y\"  connection_id:\"127.0.0.1:65260\")"}
+{"time":"2025-03-15T20:37:06.6978123+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/avvhujgh/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-15T20:37:08.0143562+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-15T20:37:08.7744478+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/avvhujgh/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-15T20:37:10.1937784+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-15T20:37:13.3388008+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/avvhujgh/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-15T21:48:27.8128346+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/avvhujgh/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-15T21:48:30.7309869+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.42.233.204:59316->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}

@@ -1,0 +1,16 @@
+{"time":"2025-03-16T17:50:44.7309404+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250316_175044-ail26mvl\\logs\\debug-core.log"}
+{"time":"2025-03-16T17:50:44.8533193+05:30","level":"INFO","msg":"created new stream","id":"ail26mvl"}
+{"time":"2025-03-16T17:50:44.8533193+05:30","level":"INFO","msg":"stream: started","id":"ail26mvl"}
+{"time":"2025-03-16T17:50:44.8533193+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ail26mvl"}
+{"time":"2025-03-16T17:50:44.8538283+05:30","level":"INFO","msg":"handler: started","stream_id":"ail26mvl"}
+{"time":"2025-03-16T17:50:44.8541022+05:30","level":"INFO","msg":"sender: started","stream_id":"ail26mvl"}
+{"time":"2025-03-16T17:50:45.2122502+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T17:51:02.0022054+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T17:51:02.0040086+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T17:51:02.9715858+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T17:51:03.0193095+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 9-9, summary, console lines 9-9","runtime_seconds":0.0477237}],"total_operations":1}}
+{"time":"2025-03-16T17:51:04.3397553+05:30","level":"INFO","msg":"stream: closing","id":"ail26mvl"}
+{"time":"2025-03-16T17:51:04.3404147+05:30","level":"INFO","msg":"handler: closed","stream_id":"ail26mvl"}
+{"time":"2025-03-16T17:51:04.3404147+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ail26mvl"}
+{"time":"2025-03-16T17:51:04.3410171+05:30","level":"INFO","msg":"sender: closed","stream_id":"ail26mvl"}
+{"time":"2025-03-16T17:51:04.3415834+05:30","level":"INFO","msg":"stream: closed","id":"ail26mvl"}

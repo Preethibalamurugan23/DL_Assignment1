@@ -1,0 +1,26 @@
+{"time":"2025-03-17T11:45:01.4186923+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250317_114501-it654633\\logs\\debug-core.log"}
+{"time":"2025-03-17T11:45:02.1266885+05:30","level":"INFO","msg":"created new stream","id":"it654633"}
+{"time":"2025-03-17T11:45:02.1277652+05:30","level":"INFO","msg":"stream: started","id":"it654633"}
+{"time":"2025-03-17T11:45:02.1277652+05:30","level":"INFO","msg":"handler: started","stream_id":"it654633"}
+{"time":"2025-03-17T11:45:02.1277652+05:30","level":"INFO","msg":"sender: started","stream_id":"it654633"}
+{"time":"2025-03-17T11:45:02.1277652+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"it654633"}
+{"time":"2025-03-17T11:45:02.6790067+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T11:45:04.1401038+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T11:53:01.7934421+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T11:53:02.6090508+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T14:55:15.6182267+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/it654633/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-17T14:55:18.0106464+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/it654633/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-17T14:55:22.0056412+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-17T14:55:22.5305918+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/mm21b051-iitmaana/DeepLearning1/it654633/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-17T15:05:16.902619+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T15:07:27.9143628+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T15:07:33.1603991+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T15:07:34.0028639+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T15:07:34.0049676+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T15:07:35.0544414+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-it654633-confusion_matrix_table","runtime_seconds":1.0761987},{"desc":"uploading config.yaml","runtime_seconds":0.4108501,"progress":"2.3KB/2.3KB"}],"total_operations":2}}
+{"time":"2025-03-17T15:07:36.8666782+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T15:07:38.2538186+05:30","level":"INFO","msg":"stream: closing","id":"it654633"}
+{"time":"2025-03-17T15:07:38.2538186+05:30","level":"INFO","msg":"handler: closed","stream_id":"it654633"}
+{"time":"2025-03-17T15:07:38.2538186+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"it654633"}
+{"time":"2025-03-17T15:07:38.2538186+05:30","level":"INFO","msg":"sender: closed","stream_id":"it654633"}
+{"time":"2025-03-17T15:07:38.2543384+05:30","level":"INFO","msg":"stream: closed","id":"it654633"}

@@ -1,0 +1,18 @@
+{"time":"2025-03-17T15:20:59.577163+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250317_152059-zcifxd1e\\logs\\debug-core.log"}
+{"time":"2025-03-17T15:20:59.6978233+05:30","level":"INFO","msg":"created new stream","id":"zcifxd1e"}
+{"time":"2025-03-17T15:20:59.6978233+05:30","level":"INFO","msg":"stream: started","id":"zcifxd1e"}
+{"time":"2025-03-17T15:20:59.6978233+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zcifxd1e"}
+{"time":"2025-03-17T15:20:59.6978233+05:30","level":"INFO","msg":"handler: started","stream_id":"zcifxd1e"}
+{"time":"2025-03-17T15:20:59.6978233+05:30","level":"INFO","msg":"sender: started","stream_id":"zcifxd1e"}
+{"time":"2025-03-17T15:21:00.1456494+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T15:21:01.1109764+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T15:29:01.3644459+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T15:31:10.0515985+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T15:31:10.0522132+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T15:31:11.0630373+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.3566562,"progress":"688B/688B"}],"total_operations":1}}
+{"time":"2025-03-17T15:31:11.7699342+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T15:31:13.1159796+05:30","level":"INFO","msg":"stream: closing","id":"zcifxd1e"}
+{"time":"2025-03-17T15:31:13.1159796+05:30","level":"INFO","msg":"handler: closed","stream_id":"zcifxd1e"}
+{"time":"2025-03-17T15:31:13.1159796+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zcifxd1e"}
+{"time":"2025-03-17T15:31:13.1159796+05:30","level":"INFO","msg":"sender: closed","stream_id":"zcifxd1e"}
+{"time":"2025-03-17T15:31:13.1166177+05:30","level":"INFO","msg":"stream: closed","id":"zcifxd1e"}

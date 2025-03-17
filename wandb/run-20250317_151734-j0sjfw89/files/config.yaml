@@ -1,0 +1,64 @@
+_wandb:
+    value:
+        cli_version: 0.19.7
+        m: []
+        python_version: 3.12.8
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+                - 55
+                - 105
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+                - 55
+                - 105
+            "3":
+                - 2
+                - 13
+                - 23
+                - 55
+            "4": 3.12.8
+            "5": 0.19.7
+            "8":
+                - 1
+                - 3
+                - 5
+            "12": 0.19.7
+            "13": windows-amd64
+        visualize:
+            confusion_matrix:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: confusion_matrix_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T15:40:55.1487628+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250317_154055-wr20m729\\logs\\debug-core.log"}
+{"time":"2025-03-17T15:40:55.2722605+05:30","level":"INFO","msg":"created new stream","id":"wr20m729"}
+{"time":"2025-03-17T15:40:55.2722605+05:30","level":"INFO","msg":"stream: started","id":"wr20m729"}
+{"time":"2025-03-17T15:40:55.2722605+05:30","level":"INFO","msg":"handler: started","stream_id":"wr20m729"}
+{"time":"2025-03-17T15:40:55.2722605+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wr20m729"}
+{"time":"2025-03-17T15:40:55.2730433+05:30","level":"INFO","msg":"sender: started","stream_id":"wr20m729"}
+{"time":"2025-03-17T15:40:55.8950385+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T15:40:56.7164332+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T15:40:56.7172044+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T15:40:57.7271694+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\confusion_matrix_0_d2b4a76d2a271c4b52df.png","runtime_seconds":0.3941371,"progress":"42.9KB/42.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3941371,"progress":"381B/381B"},{"desc":"uploading config.yaml","runtime_seconds":0.0919724,"progress":"667B/667B"}],"total_operations":3}}
+{"time":"2025-03-17T15:40:58.1997137+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T15:40:59.5561305+05:30","level":"INFO","msg":"stream: closing","id":"wr20m729"}
+{"time":"2025-03-17T15:40:59.5561305+05:30","level":"INFO","msg":"handler: closed","stream_id":"wr20m729"}
+{"time":"2025-03-17T15:40:59.5561305+05:30","level":"INFO","msg":"sender: closed","stream_id":"wr20m729"}
+{"time":"2025-03-17T15:40:59.5561305+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wr20m729"}
+{"time":"2025-03-17T15:40:59.5566399+05:30","level":"INFO","msg":"stream: closed","id":"wr20m729"}

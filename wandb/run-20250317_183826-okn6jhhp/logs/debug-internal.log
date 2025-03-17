@@ -1,0 +1,16 @@
+{"time":"2025-03-17T18:38:26.9412648+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250317_183826-okn6jhhp\\logs\\debug-core.log"}
+{"time":"2025-03-17T18:38:27.8027459+05:30","level":"INFO","msg":"created new stream","id":"okn6jhhp"}
+{"time":"2025-03-17T18:38:27.8027459+05:30","level":"INFO","msg":"stream: started","id":"okn6jhhp"}
+{"time":"2025-03-17T18:38:27.8027459+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"okn6jhhp"}
+{"time":"2025-03-17T18:38:27.8032735+05:30","level":"INFO","msg":"sender: started","stream_id":"okn6jhhp"}
+{"time":"2025-03-17T18:38:27.8034195+05:30","level":"INFO","msg":"handler: started","stream_id":"okn6jhhp"}
+{"time":"2025-03-17T18:38:28.2199852+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T18:38:34.7962123+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T18:38:34.7967178+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T18:38:35.8024904+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.3405972,"progress":"380B/380B"},{"desc":"uploading media\\images\\confusion_matrix_0_bd45835aa3b95e11a4e3.png","runtime_seconds":0.3405972,"progress":"2.3KB/2.3KB"},{"desc":"uploading output.log","runtime_seconds":0.3405972},{"desc":"uploading config.yaml","runtime_seconds":0.0554585,"progress":"667B/667B"}],"total_operations":4}}
+{"time":"2025-03-17T18:38:36.1167006+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T18:38:37.4700768+05:30","level":"INFO","msg":"stream: closing","id":"okn6jhhp"}
+{"time":"2025-03-17T18:38:37.4700768+05:30","level":"INFO","msg":"handler: closed","stream_id":"okn6jhhp"}
+{"time":"2025-03-17T18:38:37.4700768+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"okn6jhhp"}
+{"time":"2025-03-17T18:38:37.4700768+05:30","level":"INFO","msg":"sender: closed","stream_id":"okn6jhhp"}
+{"time":"2025-03-17T18:38:37.4705828+05:30","level":"INFO","msg":"stream: closed","id":"okn6jhhp"}

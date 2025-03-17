@@ -1,0 +1,96 @@
+2025-03-17 11:53:01,873 INFO    MainThread:14584 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250317_115301-it654633\logs\debug.log
+2025-03-17 11:53:01,873 INFO    MainThread:14584 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250317_115301-it654633\logs\debug-internal.log
+2025-03-17 11:53:01,874 INFO    MainThread:14584 [wandb_init.py:init():761] calling init triggers
+2025-03-17 11:53:01,874 INFO    MainThread:14584 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'relu', 'batch_size': 64, 'epochs': 10, 'hidden_layers': 4, 'hidden_size': 128, 'learning_rate': 0.001, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-17 11:53:01,874 INFO    MainThread:14584 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-17 11:53:02,607 INFO    MainThread:14584 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 11:53:02,607 INFO    MainThread:14584 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 15:05:16,901 INFO    MainThread:14584 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 15:07:27,912 INFO    MainThread:14584 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 15:07:27,913 INFO    MainThread:14584 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 15:07:33,159 INFO    MainThread:14584 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 15:07:33,182 INFO    MainThread:14584 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250317_150733-it654633\logs\debug.log
+2025-03-17 15:07:33,183 INFO    MainThread:14584 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250317_150733-it654633\logs\debug-internal.log
+2025-03-17 15:07:33,183 INFO    MainThread:14584 [wandb_init.py:init():761] calling init triggers
+2025-03-17 15:07:33,183 INFO    MainThread:14584 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'relu', 'batch_size': 64, 'epochs': 10, 'hidden_layers': 4, 'hidden_size': 128, 'learning_rate': 0.001, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-17 15:07:33,184 INFO    MainThread:14584 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-17 15:07:33,509 INFO    MainThread:14584 [wandb_run.py:_config_callback():1261] config_cb ('_wandb', 'visualize', 'confusion_matrix') {'panel_type': 'Vega2', 'panel_config': {'panelDefId': 'wandb/confusion_matrix/v1', 'fieldSettings': {'Actual': 'Actual', 'Predicted': 'Predicted', 'nPredictions': 'nPredictions'}, 'stringSettings': {'title': 'Confusion Matrix Curve'}, 'transform': {'name': 'tableWithLeafColNames'}, 'userQuery': {'queryFields': [{'name': 'runSets', 'args': [{'name': 'runSets', 'value': '${runSets}'}], 'fields': [{'name': 'id', 'fields': []}, {'name': 'name', 'fields': []}, {'name': '_defaultColorIndex', 'fields': []}, {'name': 'summaryTable', 'args': [{'name': 'tableKey', 'value': 'confusion_matrix_table'}], 'fields': []}]}]}}} None
+2025-03-17 15:07:33,993 INFO    MainThread:14584 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/it654633
+2025-03-17 15:07:34,000 INFO    MainThread:14584 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-17 15:07:34,000 INFO    MainThread:14584 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 15:07:34,000 INFO    MainThread:14584 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-17 15:07:34,000 INFO    MainThread:14584 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-03-17 15:07:34,001 INFO    MainThread:14584 [wandb_run.py:_restore():2324] restore
+2025-03-17 15:07:34,001 INFO    MainThread:14584 [wandb_run.py:_restore():2330] restore done
+2025-03-17 15:07:38,228 INFO    MsgRouterThr:14584 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-03-17 15:07:38,229 INFO    MainThread:14584 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-03-17 15:07:38,229 INFO    MainThread:14584 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-03-17 15:07:38,233 INFO    MainThread:14584 [wandb_run.py:_footer_sync_info():3919] logging synced files
+2025-03-17 15:09:48,578 INFO    MainThread:14584 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250317_150948-it654633\logs\debug.log
+2025-03-17 15:09:48,579 INFO    MainThread:14584 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250317_150948-it654633\logs\debug-internal.log
+2025-03-17 15:09:48,579 INFO    MainThread:14584 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000024650CD0410>
+2025-03-17 15:09:48,579 INFO    MainThread:14584 [wandb_init.py:init():761] calling init triggers
+2025-03-17 15:09:48,579 INFO    MainThread:14584 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'relu', 'batch_size': 64, 'epochs': 10, 'hidden_layers': 4, 'hidden_size': 128, 'learning_rate': 0.001, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-17 15:09:48,579 INFO    MainThread:14584 [wandb_init.py:init():784] starting backend
+2025-03-17 15:09:48,579 INFO    MainThread:14584 [wandb_init.py:init():788] sending inform_init request
+2025-03-17 15:09:48,583 INFO    MainThread:14584 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-17 15:09:48,584 INFO    MainThread:14584 [wandb_init.py:init():803] backend started and connected
+2025-03-17 15:09:48,588 INFO    MainThread:14584 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'relu', 'batch_size': 64, 'epochs': 10, 'hidden_layers': 4, 'hidden_size': 128, 'learning_rate': 0.001, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+2025-03-17 15:09:48,589 INFO    MainThread:14584 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-17 15:09:48,607 INFO    MainThread:14584 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 50756: character maps to <undefined>
+2025-03-17 15:09:48,607 INFO    MainThread:14584 [wandb_init.py:init():896] updated telemetry
+2025-03-17 15:09:48,680 INFO    MainThread:14584 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-17 15:09:49,047 INFO    MainThread:14584 [wandb_init.py:init():995] starting run threads in backend
+2025-03-17 15:09:49,890 INFO    MainThread:14584 [wandb_run.py:_console_start():2377] atexit reg
+2025-03-17 15:09:49,891 INFO    MainThread:14584 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-17 15:09:49,891 INFO    MainThread:14584 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-17 15:09:49,891 INFO    MainThread:14584 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-03-17 15:09:49,891 INFO    MainThread:14584 [wandb_init.py:init():1037] run started, returning control to user process
+2025-03-17 15:09:50,138 INFO    MainThread:14584 [wandb_run.py:_config_callback():1261] config_cb ('_wandb', 'visualize', 'confusion_matrix') {'panel_type': 'Vega2', 'panel_config': {'panelDefId': 'wandb/confusion_matrix/v1', 'fieldSettings': {'Actual': 'Actual', 'Predicted': 'Predicted', 'nPredictions': 'nPredictions'}, 'stringSettings': {'title': 'Confusion Matrix Curve'}, 'transform': {'name': 'tableWithLeafColNames'}, 'userQuery': {'queryFields': [{'name': 'runSets', 'args': [{'name': 'runSets', 'value': '${runSets}'}], 'fields': [{'name': 'id', 'fields': []}, {'name': 'name', 'fields': []}, {'name': '_defaultColorIndex', 'fields': []}, {'name': 'summaryTable', 'args': [{'name': 'tableKey', 'value': 'confusion_matrix_table'}], 'fields': []}]}]}}} None
+2025-03-17 15:09:50,505 INFO    MainThread:14584 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/it654633
+2025-03-17 15:09:50,505 INFO    MainThread:14584 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-17 15:09:50,506 INFO    MainThread:14584 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 15:09:50,506 INFO    MainThread:14584 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-17 15:09:50,506 INFO    MainThread:14584 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-03-17 15:09:50,506 INFO    MainThread:14584 [wandb_run.py:_restore():2324] restore
+2025-03-17 15:09:50,506 INFO    MainThread:14584 [wandb_run.py:_restore():2330] restore done
+2025-03-17 15:09:53,012 INFO    MsgRouterThr:14584 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-03-17 15:09:53,012 INFO    MainThread:14584 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-03-17 15:09:53,014 INFO    MainThread:14584 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-03-17 15:09:53,016 INFO    MainThread:14584 [wandb_run.py:_footer_sync_info():3919] logging synced files
+2025-03-17 15:13:55,798 INFO    MainThread:14584 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250317_151355-it654633\logs\debug.log
+2025-03-17 15:13:55,799 INFO    MainThread:14584 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\Preethi\Downloads\Assgn1_DL\wandb\run-20250317_151355-it654633\logs\debug-internal.log
+2025-03-17 15:13:55,799 INFO    MainThread:14584 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000024650240B60>
+2025-03-17 15:13:55,799 INFO    MainThread:14584 [wandb_init.py:init():761] calling init triggers
+2025-03-17 15:13:55,799 INFO    MainThread:14584 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'relu', 'batch_size': 64, 'epochs': 10, 'hidden_layers': 4, 'hidden_size': 128, 'learning_rate': 0.001, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-17 15:13:55,800 INFO    MainThread:14584 [wandb_init.py:init():784] starting backend
+2025-03-17 15:13:55,800 INFO    MainThread:14584 [wandb_init.py:init():788] sending inform_init request
+2025-03-17 15:13:55,804 INFO    MainThread:14584 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-17 15:13:55,805 INFO    MainThread:14584 [wandb_init.py:init():803] backend started and connected
+2025-03-17 15:13:55,810 INFO    MainThread:14584 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'relu', 'batch_size': 64, 'epochs': 10, 'hidden_layers': 4, 'hidden_size': 128, 'learning_rate': 0.001, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+2025-03-17 15:13:55,812 INFO    MainThread:14584 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-17 15:13:55,815 INFO    MainThread:14584 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 50756: character maps to <undefined>
+2025-03-17 15:13:55,816 INFO    MainThread:14584 [wandb_init.py:init():896] updated telemetry
+2025-03-17 15:13:55,914 INFO    MainThread:14584 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-17 15:13:56,298 INFO    MainThread:14584 [wandb_init.py:init():995] starting run threads in backend
+2025-03-17 15:13:56,822 INFO    MainThread:14584 [wandb_run.py:_console_start():2377] atexit reg
+2025-03-17 15:13:56,822 INFO    MainThread:14584 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-17 15:13:56,822 INFO    MainThread:14584 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-17 15:13:56,822 INFO    MainThread:14584 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-03-17 15:13:56,824 INFO    MainThread:14584 [wandb_init.py:init():1037] run started, returning control to user process
+2025-03-17 15:13:57,077 INFO    MainThread:14584 [wandb_run.py:_config_callback():1261] config_cb ('_wandb', 'visualize', 'confusion_matrix') {'panel_type': 'Vega2', 'panel_config': {'panelDefId': 'wandb/confusion_matrix/v1', 'fieldSettings': {'Actual': 'Actual', 'Predicted': 'Predicted', 'nPredictions': 'nPredictions'}, 'stringSettings': {'title': 'Confusion Matrix Curve'}, 'transform': {'name': 'tableWithLeafColNames'}, 'userQuery': {'queryFields': [{'name': 'runSets', 'args': [{'name': 'runSets', 'value': '${runSets}'}], 'fields': [{'name': 'id', 'fields': []}, {'name': 'name', 'fields': []}, {'name': '_defaultColorIndex', 'fields': []}, {'name': 'summaryTable', 'args': [{'name': 'tableKey', 'value': 'confusion_matrix_table'}], 'fields': []}]}]}}} None
+2025-03-17 15:13:57,387 INFO    MainThread:14584 [wandb_run.py:_finish():2112] finishing run mm21b051-iitmaana/DeepLearning1/it654633
+2025-03-17 15:13:57,387 INFO    MainThread:14584 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-17 15:13:57,387 INFO    MainThread:14584 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 15:13:57,387 INFO    MainThread:14584 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-17 15:13:57,387 INFO    MainThread:14584 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-03-17 15:13:57,388 INFO    MainThread:14584 [wandb_run.py:_restore():2324] restore
+2025-03-17 15:13:57,388 INFO    MainThread:14584 [wandb_run.py:_restore():2330] restore done
+2025-03-17 15:13:59,976 INFO    MsgRouterThr:14584 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-03-17 15:13:59,978 INFO    MainThread:14584 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-03-17 15:13:59,978 INFO    MainThread:14584 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-03-17 15:13:59,981 INFO    MainThread:14584 [wandb_run.py:_footer_sync_info():3919] logging synced files

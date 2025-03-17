@@ -1,0 +1,16 @@
+{"time":"2025-03-17T15:42:06.3845598+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250317_154206-re4xcq8n\\logs\\debug-core.log"}
+{"time":"2025-03-17T15:42:06.5010933+05:30","level":"INFO","msg":"created new stream","id":"re4xcq8n"}
+{"time":"2025-03-17T15:42:06.5010933+05:30","level":"INFO","msg":"stream: started","id":"re4xcq8n"}
+{"time":"2025-03-17T15:42:06.5010933+05:30","level":"INFO","msg":"handler: started","stream_id":"re4xcq8n"}
+{"time":"2025-03-17T15:42:06.5010933+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"re4xcq8n"}
+{"time":"2025-03-17T15:42:06.5010933+05:30","level":"INFO","msg":"sender: started","stream_id":"re4xcq8n"}
+{"time":"2025-03-17T15:42:06.8455108+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T15:42:07.7364761+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T15:42:07.7372785+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T15:42:08.7426798+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\confusion_matrix_0_f6893164afaa5f11b829.png","runtime_seconds":0.6095501,"progress":"43.3KB/43.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.2868249,"progress":"667B/667B"}],"total_operations":2}}
+{"time":"2025-03-17T15:42:09.0024868+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T15:42:10.3550152+05:30","level":"INFO","msg":"stream: closing","id":"re4xcq8n"}
+{"time":"2025-03-17T15:42:10.3550152+05:30","level":"INFO","msg":"handler: closed","stream_id":"re4xcq8n"}
+{"time":"2025-03-17T15:42:10.3550152+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"re4xcq8n"}
+{"time":"2025-03-17T15:42:10.3550152+05:30","level":"INFO","msg":"sender: closed","stream_id":"re4xcq8n"}
+{"time":"2025-03-17T15:42:10.3556+05:30","level":"INFO","msg":"stream: closed","id":"re4xcq8n"}

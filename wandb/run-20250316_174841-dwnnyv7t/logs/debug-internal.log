@@ -1,0 +1,16 @@
+{"time":"2025-03-16T17:48:41.9864381+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250316_174841-dwnnyv7t\\logs\\debug-core.log"}
+{"time":"2025-03-16T17:48:42.1244918+05:30","level":"INFO","msg":"created new stream","id":"dwnnyv7t"}
+{"time":"2025-03-16T17:48:42.1260869+05:30","level":"INFO","msg":"stream: started","id":"dwnnyv7t"}
+{"time":"2025-03-16T17:48:42.1260869+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dwnnyv7t"}
+{"time":"2025-03-16T17:48:42.1265966+05:30","level":"INFO","msg":"sender: started","stream_id":"dwnnyv7t"}
+{"time":"2025-03-16T17:48:42.1265966+05:30","level":"INFO","msg":"handler: started","stream_id":"dwnnyv7t"}
+{"time":"2025-03-16T17:48:42.4615963+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T17:49:07.8617333+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T17:49:07.8626942+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T17:49:08.880063+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.7047024,"progress":"871B/871B"},{"desc":"uploading config.yaml","runtime_seconds":0.3983437,"progress":"942B/942B"}],"total_operations":2}}
+{"time":"2025-03-16T17:49:09.4934625+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T17:49:10.8471808+05:30","level":"INFO","msg":"stream: closing","id":"dwnnyv7t"}
+{"time":"2025-03-16T17:49:10.8471808+05:30","level":"INFO","msg":"handler: closed","stream_id":"dwnnyv7t"}
+{"time":"2025-03-16T17:49:10.8471808+05:30","level":"INFO","msg":"sender: closed","stream_id":"dwnnyv7t"}
+{"time":"2025-03-16T17:49:10.8471808+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dwnnyv7t"}
+{"time":"2025-03-16T17:49:10.8481581+05:30","level":"INFO","msg":"stream: closed","id":"dwnnyv7t"}

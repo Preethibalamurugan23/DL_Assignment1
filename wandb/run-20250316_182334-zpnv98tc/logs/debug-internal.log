@@ -1,0 +1,16 @@
+{"time":"2025-03-16T18:23:34.0619083+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250316_182334-zpnv98tc\\logs\\debug-core.log"}
+{"time":"2025-03-16T18:23:34.2029042+05:30","level":"INFO","msg":"created new stream","id":"zpnv98tc"}
+{"time":"2025-03-16T18:23:34.203423+05:30","level":"INFO","msg":"handler: started","stream_id":"zpnv98tc"}
+{"time":"2025-03-16T18:23:34.203423+05:30","level":"INFO","msg":"sender: started","stream_id":"zpnv98tc"}
+{"time":"2025-03-16T18:23:34.203423+05:30","level":"INFO","msg":"stream: started","id":"zpnv98tc"}
+{"time":"2025-03-16T18:23:34.2036712+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zpnv98tc"}
+{"time":"2025-03-16T18:23:34.5503343+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T18:24:11.5822511+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T18:24:11.5834025+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T18:24:12.5915246+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.3971576,"progress":"944B/944B"}],"total_operations":1}}
+{"time":"2025-03-16T18:24:12.6573487+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T18:24:14.407488+05:30","level":"INFO","msg":"stream: closing","id":"zpnv98tc"}
+{"time":"2025-03-16T18:24:14.4075652+05:30","level":"INFO","msg":"handler: closed","stream_id":"zpnv98tc"}
+{"time":"2025-03-16T18:24:14.4076332+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zpnv98tc"}
+{"time":"2025-03-16T18:24:14.4076332+05:30","level":"INFO","msg":"sender: closed","stream_id":"zpnv98tc"}
+{"time":"2025-03-16T18:24:14.4087794+05:30","level":"INFO","msg":"stream: closed","id":"zpnv98tc"}

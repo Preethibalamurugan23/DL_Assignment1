@@ -1,0 +1,16 @@
+{"time":"2025-03-16T18:32:24.938885+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250316_183224-du4xdzej\\logs\\debug-core.log"}
+{"time":"2025-03-16T18:32:25.0645446+05:30","level":"INFO","msg":"created new stream","id":"du4xdzej"}
+{"time":"2025-03-16T18:32:25.0645446+05:30","level":"INFO","msg":"stream: started","id":"du4xdzej"}
+{"time":"2025-03-16T18:32:25.0645446+05:30","level":"INFO","msg":"handler: started","stream_id":"du4xdzej"}
+{"time":"2025-03-16T18:32:25.0645446+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"du4xdzej"}
+{"time":"2025-03-16T18:32:25.0645446+05:30","level":"INFO","msg":"sender: started","stream_id":"du4xdzej"}
+{"time":"2025-03-16T18:32:25.4496063+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T18:32:37.8773655+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T18:32:37.8779804+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T18:32:38.8903211+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":1.0102145}],"total_operations":1}}
+{"time":"2025-03-16T18:32:45.2294282+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T18:32:54.5692845+05:30","level":"INFO","msg":"stream: closing","id":"du4xdzej"}
+{"time":"2025-03-16T18:32:54.5692845+05:30","level":"INFO","msg":"handler: closed","stream_id":"du4xdzej"}
+{"time":"2025-03-16T18:32:54.5692845+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"du4xdzej"}
+{"time":"2025-03-16T18:32:54.5692845+05:30","level":"INFO","msg":"sender: closed","stream_id":"du4xdzej"}
+{"time":"2025-03-16T18:32:54.5699851+05:30","level":"INFO","msg":"stream: closed","id":"du4xdzej"}

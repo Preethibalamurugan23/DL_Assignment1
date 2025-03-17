@@ -1,0 +1,16 @@
+{"time":"2025-03-16T17:58:00.3361949+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250316_175800-lyr77izf\\logs\\debug-core.log"}
+{"time":"2025-03-16T17:58:00.4548493+05:30","level":"INFO","msg":"created new stream","id":"lyr77izf"}
+{"time":"2025-03-16T17:58:00.4548493+05:30","level":"INFO","msg":"stream: started","id":"lyr77izf"}
+{"time":"2025-03-16T17:58:00.4554713+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lyr77izf"}
+{"time":"2025-03-16T17:58:00.4555761+05:30","level":"INFO","msg":"handler: started","stream_id":"lyr77izf"}
+{"time":"2025-03-16T17:58:00.4555761+05:30","level":"INFO","msg":"sender: started","stream_id":"lyr77izf"}
+{"time":"2025-03-16T17:58:00.7978239+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T17:58:10.393442+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T17:58:10.3945657+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T17:58:11.3677055+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T17:58:11.4112636+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-9, summary, console lines 0-9","runtime_seconds":0.0433723}],"total_operations":1}}
+{"time":"2025-03-16T17:58:12.8683455+05:30","level":"INFO","msg":"stream: closing","id":"lyr77izf"}
+{"time":"2025-03-16T17:58:12.8683455+05:30","level":"INFO","msg":"handler: closed","stream_id":"lyr77izf"}
+{"time":"2025-03-16T17:58:12.868511+05:30","level":"INFO","msg":"sender: closed","stream_id":"lyr77izf"}
+{"time":"2025-03-16T17:58:12.8683455+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lyr77izf"}
+{"time":"2025-03-16T17:58:12.8692371+05:30","level":"INFO","msg":"stream: closed","id":"lyr77izf"}

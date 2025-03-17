@@ -1,0 +1,1 @@
+{"_runtime":1.406504,"_wandb":{"runtime":1},"_step":0,"test_loss":0.02135720060751104,"test_accuracy":0.8714,"confusion_matrix":{"size":43953,"path":"media/images/confusion_matrix_0_d2b4a76d2a271c4b52df.png","format":"png","width":800,"height":600,"_type":"image-file","sha256":"d2b4a76d2a271c4b52df1ccd821ff9981ba6658b4533bb689bf3dfdb1a214170"},"_timestamp":1.742206256551232e+09}

@@ -1,0 +1,16 @@
+{"time":"2025-03-16T17:53:56.0528602+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\Preethi\\Downloads\\Assgn1_DL\\wandb\\run-20250316_175356-lpzgqgnu\\logs\\debug-core.log"}
+{"time":"2025-03-16T17:53:56.1887362+05:30","level":"INFO","msg":"created new stream","id":"lpzgqgnu"}
+{"time":"2025-03-16T17:53:56.1892548+05:30","level":"INFO","msg":"stream: started","id":"lpzgqgnu"}
+{"time":"2025-03-16T17:53:56.1892548+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lpzgqgnu"}
+{"time":"2025-03-16T17:53:56.1897822+05:30","level":"INFO","msg":"handler: started","stream_id":"lpzgqgnu"}
+{"time":"2025-03-16T17:53:56.1897822+05:30","level":"INFO","msg":"sender: started","stream_id":"lpzgqgnu"}
+{"time":"2025-03-16T17:53:56.5160917+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T17:54:35.4067764+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T17:54:35.4079528+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T17:54:36.4192444+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.2247685,"progress":"946B/946B"}],"total_operations":1}}
+{"time":"2025-03-16T17:54:36.7576478+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T17:54:38.1099053+05:30","level":"INFO","msg":"stream: closing","id":"lpzgqgnu"}
+{"time":"2025-03-16T17:54:38.1099053+05:30","level":"INFO","msg":"handler: closed","stream_id":"lpzgqgnu"}
+{"time":"2025-03-16T17:54:38.1099053+05:30","level":"INFO","msg":"sender: closed","stream_id":"lpzgqgnu"}
+{"time":"2025-03-16T17:54:38.1099053+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lpzgqgnu"}
+{"time":"2025-03-16T17:54:38.1104114+05:30","level":"INFO","msg":"stream: closed","id":"lpzgqgnu"}
