@@ -6,6 +6,7 @@ This repository contains an implementation of a feedforward neural network train
 
 ## Files
 - code.ipynb – Modularized Jupyter notebook with the full implementation.
+- code.pdf - Pdf version of code.ipynb with outputs
 - train.py – Script for training the model using command-line arguments.
 - wandb_report.pdf – Report with answers, visualizations, and insights from hyperparameter tuning.
 
